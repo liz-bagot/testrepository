@@ -17,7 +17,7 @@ Please add what you consider to the the BEST links to online resources that corr
    - Must-Listens _(Links to include: Podcasts (e.g. Pomp, Chain Reaction, etc.)_
    - Must-Watches _(Links to include: Videos (e.g. Decred Assembly, BlockTV, other explainers)_
 
-2. Go Deeper: Decred & It Features
+2. Go Deeper: Decred & Its Features
    - The Airdrop
    - Decred as a Store Value
    - Decred as a DAO 
@@ -47,7 +47,6 @@ Please add what you consider to the the BEST links to online resources that corr
    - Noteworthy Politeia Proposals
 
 6. Staking _(Link to staking section)_
-   - Staking
    - Overview
      - Stakey: The Instrument of Governance (Ticketing)
    - How to Stake _(Links to include: What is a VSP?)_

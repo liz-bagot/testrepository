@@ -1,5 +1,7 @@
 # Educational resources schema 
 
+please use the standard readme text formatting to include the lniks [Decred](https://decred.org)
+
 
 1. Beginner’s Guide to Decred: The Basics 
    - Mission & Vision (text) 

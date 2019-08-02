@@ -1,5 +1,8 @@
 
  # Suggested Schema
+ 
+please use the standard [text formatting to add hyperlniks] (https://help.github.com/en/articles/basic-writing-and-formatting-syntax#links)
+
 
 1. Beginner’s Guide to Decred: The Basics 
    - Mission & Vision (text) 
@@ -7,7 +10,6 @@
    - Must-Reads _(Links to include: Best introductory articles for the unacquainted, e.g. blog posts, media articles, etc.)_
    - Must-Listens _(Links to include: Podcasts (e.g. Pomp, Chain Reaction, etc.)_
    - Must-Watches _(Links to include: Videos (e.g. Decred Assembly, BlockTV, other explainers)_
-
 
 2. Go Deeper: Decred & It Features
    - The Airdrop

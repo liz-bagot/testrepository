@@ -3,7 +3,7 @@
  
 Decred’s target audiences need to be better educated about Decred. Education will crystalize who Decred is, attract a wider audience, and prepare it for the next bull market. There’s a lot of good educational content in various places, but it can be difficult for journalists, crypto enthusiasts, investors, etc. to find it. While https://docs.decred.org/ is a good resource for people who already know Decred, it’s not intuitive for beginners and doesn’t pool together external resources. 
 
-We need an easy-to-find, external-facing Decred Resources Repository that helps non-Decred people get acquainted with the project. Here's a sample schema we can model: https://www.lopp.net/bitcoin-information.html
+We need an easy-to-find, external-facing Decred Resources Repository that helps non-Decred people get acquainted with the project by curating the very best content on each subject. Here's a sample schema we can model: https://www.lopp.net/bitcoin-information.html
 
 Below, each macro topic is denoted by a number. When visitors click on it, it will lead to another webpage with sub-topics, underneath which are hyperlinks to content. E.g. If the macro topic is "Governance: Hybrid PoW/Pos", you click and it leads you to sub-topics like "Primer on Consensus Mechanisms", "How Hybrid PoW/PoS Works", etc. 
 

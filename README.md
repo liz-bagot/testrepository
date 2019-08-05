@@ -16,7 +16,7 @@ Please add what you consider to the the BEST links to online resources that corr
    - Must-Reads _(Links to include: Best introductory articles for the unacquainted, e.g. blog posts, media articles, etc.)_
    - Must-Listens _(Links to include: Podcasts (e.g. Pomp, Chain Reaction, etc.)_
    - Must-Watches _(Links to include: Videos (e.g. Decred Assembly, BlockTV, other explainers)_
-     - What is Decred? [What is Decred?](https://youtu.be/qT9oBsbzUos).
+     - What is Decred? [What is Decred?](https://youtu.be/qT9oBsbzUos)
 
 2. Go Deeper: Decred & Its Features
    - The Airdrop
@@ -35,6 +35,7 @@ Please add what you consider to the the BEST links to online resources that corr
 4. Governance: Hybrid PoW/PoS 
    - Primer on Consensus Mechanisms
    - How Hybrid PoW/PoS Works
+     - Hybrid PoW/PoS Consensus Explained [Hybrid PoW/PoS Consensus Explained](https://www.binance.vision/blockchain/hybrid-pow-pos-consensus-explained)
    - Why Hybrid PoW/PoS?
    - Security
    - Adaptability
@@ -56,6 +57,7 @@ Please add what you consider to the the BEST links to online resources that corr
 7. Funding, Contractor Model, and the Decred DAO
    - Decred Treasury
    - How Decred’s Contractor Model Works
+     - Working for the Decred DAE [Working for the Decred DAE](https://medium.com/@richardred/working-for-the-decred-dae-a9cfb17686fa)
    - How to Become a Contractor 
    - What the Decred DAO Means
 

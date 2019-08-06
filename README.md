@@ -68,6 +68,6 @@ Please add what you consider to the the BEST links to online resources that corr
    - How to Use Politeia
 
 9. Other Resources 
-   - Network Statistics
+   - Network Statistics [Interface example](https://d.pr/i/JK7ojb)
    - Block Explorers
    - Mining

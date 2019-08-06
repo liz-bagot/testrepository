@@ -51,13 +51,14 @@ Please add what you consider to the the BEST links to online resources that corr
 6. Staking _(Link to staking section)_
    - Overview
      - Stakey: The Instrument of Governance (Ticketing)
-   - How to Stake _(Links to include: What is a VSP?)_ [How to Stake/Tickets Lifecycle](https://youtu.be/8K7A_j5_VIU)
+   - How to Stake 
+     - [How to Stake/Tickets Lifecycle](https://youtu.be/8K7A_j5_VIU)
    - Ticket Splitting
 
 7. Funding, Contractor Model, and the Decred DAO
    - Decred Treasury
    - How Decred’s Contractor Model Works
-     - Working for the Decred DAE [Working for the Decred DAE](https://medium.com/@richardred/working-for-the-decred-dae-a9cfb17686fa)
+     -[Working for the Decred DAE](https://medium.com/@richardred/working-for-the-decred-dae-a9cfb17686fa)
    - How to Become a Contractor 
    - What the Decred DAO Means
 

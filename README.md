@@ -51,6 +51,7 @@ Please add what you consider to the the BEST links to online resources that corr
 6. Staking _(Link to staking section)_
    - Overview
      - Stakey: The Instrument of Governance (Ticketing)
+     https://www.coindesk.com/staking-isnt-just-a-way-to-earn-crypto-money-and-it-shouldnt-be
    - How to Stake 
      - [How to Stake/Tickets Lifecycle](https://youtu.be/8K7A_j5_VIU)
    - Ticket Splitting

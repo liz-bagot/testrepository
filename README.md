@@ -69,5 +69,6 @@ Please add what you consider to the the BEST links to online resources that corr
 
 9. Other Resources 
    - Network Statistics [Interface example](https://d.pr/i/JK7ojb)
+    - I'd like to finish a web based interface that has all historical data. Thoughts?
    - Block Explorers
    - Mining

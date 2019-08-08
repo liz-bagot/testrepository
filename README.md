@@ -47,10 +47,11 @@ Please add what you consider to the the BEST links to online resources that corr
    - Primer on Consensus Mechanisms
    - How Hybrid PoW/PoS Works
      - https://www.binance.vision/blockchain/hybrid-pow-pos-consensus-explained
-     - 
    - Why Hybrid PoW/PoS?
    - Security
       - https://blog.usejournal.com/apples-to-apples-decred-is-20x-more-expensive-to-attack-than-bitcoin-68bafeb4546f
+      - https://medium.com/decred/decreds-hybrid-protocol-a-superior-deterrent-to-majority-attacks-9421bf486292
+      - https://medium.com/decred/detailed-analysis-of-decred-fork-resistance-93022e0bcde7
    - Adaptability
    - Self-Funding
    - Staking _(Link to staking section)_

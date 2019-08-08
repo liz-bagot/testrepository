@@ -24,7 +24,8 @@ Please add what you consider to the the BEST links to online resources that corr
    - Must-Listens _(Links to include: Podcasts (e.g. Pomp, Chain Reaction, etc.)_
      - https://soundcloud.com/decredindepth/murad-mahmudov-dcr-investment-thesis-sov-narrative-crypto-economics
    - Must-Watches _(Links to include: Videos (e.g. Decred Assembly, BlockTV, other explainers)_
-     - [What is Decred?](https://youtu.be/qT9oBsbzUos)
+     - https://youtu.be/qT9oBsbzUos
+     - https://blog.decred.org/2016/11/16/Upgrading-Consensus/
 
 2. Go Deeper: Decred & Its Features
    - The Airdrop
@@ -48,6 +49,7 @@ Please add what you consider to the the BEST links to online resources that corr
    - How Hybrid PoW/PoS Works
      - https://www.binance.vision/blockchain/hybrid-pow-pos-consensus-explained
    - Why Hybrid PoW/PoS?
+     - https://blog.decred.org/2016/11/16/Upgrading-Consensus/
    - Security
       - https://blog.usejournal.com/apples-to-apples-decred-is-20x-more-expensive-to-attack-than-bitcoin-68bafeb4546f
       - https://medium.com/decred/decreds-hybrid-protocol-a-superior-deterrent-to-majority-attacks-9421bf486292
@@ -65,10 +67,10 @@ Please add what you consider to the the BEST links to online resources that corr
 
 6. Staking _(Link to staking section)_
    - Overview
-     - Stakey: The Instrument of Governance (Ticketing)
-     https://www.coindesk.com/staking-isnt-just-a-way-to-earn-crypto-money-and-it-shouldnt-be
+     - https://www.coindesk.com/staking-isnt-just-a-way-to-earn-crypto-money-and-it-shouldnt-be
+     - https://blog.decred.org/2017/04/03/A-New-Ticket-Price-Algorithm/
    - How to Stake 
-     - [How to Stake/Tickets Lifecycle](https://youtu.be/8K7A_j5_VIU)
+     - https://youtu.be/8K7A_j5_VIU
    - Ticket Splitting
 
 7. Funding, Contractor Model, and the Decred DAO

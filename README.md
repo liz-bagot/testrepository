@@ -46,9 +46,11 @@ Please add what you consider to the the BEST links to online resources that corr
 4. Governance: Hybrid PoW/PoS 
    - Primer on Consensus Mechanisms
    - How Hybrid PoW/PoS Works
-     - [Hybrid PoW/PoS Consensus Explained](https://www.binance.vision/blockchain/hybrid-pow-pos-consensus-explained)
+     - https://www.binance.vision/blockchain/hybrid-pow-pos-consensus-explained
+     - 
    - Why Hybrid PoW/PoS?
    - Security
+      - https://blog.usejournal.com/apples-to-apples-decred-is-20x-more-expensive-to-attack-than-bitcoin-68bafeb4546f
    - Adaptability
    - Self-Funding
    - Staking _(Link to staking section)_

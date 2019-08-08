@@ -13,16 +13,16 @@ Please add what you consider to the the BEST links to online resources that corr
 1. Beginner’s Guide to Decred: The Basics 
    - Mission & Vision (text) 
    - History of Decred: Foundational Documents
-   https://blog.companyzero.com/2015/12/iterating-bitcoin/
-   https://blog.companyzero.com/2015/11/bitcoins-biggest-challenges/
-   https://blog.companyzero.com/2015/12/decred-rethink-digital-currency/
-   https://decred.org/research/mackenzie2013.pdf
-   https://bitcointalk.org/index.php?topic=1290358.0
-   https://github.com/artikozel/decred-timeline
+     - https://blog.companyzero.com/2015/12/iterating-bitcoin/
+     - https://blog.companyzero.com/2015/11/bitcoins-biggest-challenges/
+     - https://blog.companyzero.com/2015/12/decred-rethink-digital-currency/
+     - https://decred.org/research/mackenzie2013.pdf
+     - https://bitcointalk.org/index.php?topic=1290358.0
+     - https://github.com/artikozel/decred-timeline
    - Must-Reads _(Links to include: Best introductory articles for the unacquainted, e.g. blog posts, media articles, etc.)_
-   https://medium.com/@linda.xie/a-beginners-guide-to-decred-2fc61670d67c
+     - https://medium.com/@linda.xie/a-beginners-guide-to-decred-2fc61670d67c
    - Must-Listens _(Links to include: Podcasts (e.g. Pomp, Chain Reaction, etc.)_
-   https://soundcloud.com/decredindepth/murad-mahmudov-dcr-investment-thesis-sov-narrative-crypto-economics
+     - https://soundcloud.com/decredindepth/murad-mahmudov-dcr-investment-thesis-sov-narrative-crypto-economics
    - Must-Watches _(Links to include: Videos (e.g. Decred Assembly, BlockTV, other explainers)_
      - [What is Decred?](https://youtu.be/qT9oBsbzUos)
 
@@ -39,9 +39,9 @@ Please add what you consider to the the BEST links to online resources that corr
 3. Why Own Decred?
    - Decred Ownership Thesis 
    - What Investors Are Saying About Decred _(Links to include: Materials written by economists/finance people (e.g. Murad, Chris Burniske, etc.)_
-   -  https://soundcloud.com/decredindepth/murad-mahmudov-dcr-investment-thesis-sov-narrative-crypto-economics
-   -  https://www.placeholder.vc/blog/2018/5/12/decred-investment-thesis
-   - https://static1.squarespace.com/static/5a479ee3b7411c6102f75729/t/5beb31eb6d2a73d37e82093b/1542140423818/Decred+Analysis+-+Alex+Evans.pdf
+     -  https://soundcloud.com/decredindepth/murad-mahmudov-dcr-investment-thesis-sov-narrative-crypto-economics
+     -  https://www.placeholder.vc/blog/2018/5/12/decred-investment-thesis
+     - https://static1.squarespace.com/static/5a479ee3b7411c6102f75729/t/5beb31eb6d2a73d37e82093b/1542140423818/Decred+Analysis+-+Alex+Evans.pdf
 
 4. Governance: Hybrid PoW/PoS 
    - Primer on Consensus Mechanisms

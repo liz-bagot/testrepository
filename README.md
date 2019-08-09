@@ -21,11 +21,17 @@ Please add what you consider to the the BEST links to online resources that corr
    - Must-Reads _(Links to include: Best introductory articles for the unacquainted, e.g. blog posts, media articles, etc.)_
      - https://medium.com/@linda.xie/a-beginners-guide-to-decred-2fc61670d67c
      - https://decred.org/brief/
+     - https://www.placeholder.vc/blog/2018/5/12/decred-investment-thesis
    - Must-Listens _(Links to include: Podcasts (e.g. Pomp, Chain Reaction, etc.)_
      - https://soundcloud.com/decredindepth/murad-mahmudov-dcr-investment-thesis-sov-narrative-crypto-economics
+     - https://www.youtube.com/watch?v=rcEJuN7zh2M&feature=youtu.be
+     - https://www.youtube.com/watch?v=tgPc1ZgtR4c
    - Must-Watches _(Links to include: Videos (e.g. Decred Assembly, BlockTV, other explainers)_
      - https://youtu.be/qT9oBsbzUos
      - https://blog.decred.org/2016/11/16/Upgrading-Consensus/
+     - https://events.technologyreview.com/video/watch/jake-yocom-piatt-decred-blockchain-sovereignty/
+     - https://www.youtube.com/watch?v=E5mXtGvwelU
+     - https://www.youtube.com/watch?v=TDXu5Z20Bgk
 
 2. Go Deeper: Decred & Its Features
    - The Airdrop
@@ -35,6 +41,7 @@ Please add what you consider to the the BEST links to online resources that corr
    - Deep Dive Technical Resources
    - Privacy _(Links to include: Upcoming blogs (comparative, explanative)_
    - DEX _(Links to include: Stuff about Atomic Swaps)_
+     - https://blog.decred.org/2018/06/05/A-New-Kind-of-DEX/
    - Scaling Solution (Lightning Network)
 
 3. Why Own Decred?
@@ -68,7 +75,17 @@ Please add what you consider to the the BEST links to online resources that corr
 5. Politeia
    - Overview
       - https://blog.decred.org/2017/10/25/Politeia/
+      - https://medium.com/decred/governance-of-the-decred-project-subsidy-through-politeia-e6393b2bab1f
+      - https://medium.com/decred/an-overview-of-decreds-politeia-system-architecture-8741c13b35d8
+      - https://blog.decred.org/2018/10/15/Politeia-in-Production/
+      - https://medium.com/decred/on-the-launch-of-decreds-politeia-b305d06d8bda
    - Noteworthy Politeia Proposals
+      - https://proposals.decred.org/proposals/5431da8ff4eda8cdbf8f4f2e08566ffa573464b97ef6d6bae78e749f27800d3a
+      - https://proposals.decred.org/proposals/d33a2667469b56942adf42453def6cc2292325251e4cf791e806939ea9efc9e1
+      - https://proposals.decred.org/proposals/27f87171d98b7923a1bd2bee6affed929fa2d2a6e178b5c80a9971a92a5c7f50
+      - https://proposals.decred.org/proposals/fa38a3593d9a3f6cb2478a24c25114f5097c572f6dadf24c78bb521ed10992a4
+      - https://proposals.decred.org/proposals/5d9cfb07aefb338ba1b74f97de16ee651beabc851c7f2b5f790bd88aea23b3cb
+      - https://proposals.decred.org/proposals/c96290a2478d0a1916284438ea2c59a1215fe768a87648d04d45f6b7ecb82c3f
 
 6. Staking _(Link to staking section)_
    - Overview
@@ -80,9 +97,12 @@ Please add what you consider to the the BEST links to online resources that corr
 
 7. Funding, Contractor Model, and the Decred DAO
    - Decred Treasury
+      - https://www.coindesk.com/decred-is-turning-its-entire-21-million-crypto-treasury-over-to-investors
    - How Decred’s Contractor Model Works
-     - [Working for the Decred DAE](https://medium.com/@richardred/working-for-the-decred-dae-a9cfb17686fa)
-   - How to Become a Contractor 
+     - https://medium.com/@richardred/working-for-the-decred-dae-a9cfb17686fa
+     - https://docs.decred.org/contributing/contributing-to-decred/
+   - How to Become a Contractor
+     - https://medium.com/decred/how-to-get-hired-as-a-decred-contractor-e1435842df10
    - What the Decred DAO Means
 
 8. Decred Tutorials & How-Tos 

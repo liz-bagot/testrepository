@@ -95,6 +95,10 @@ Please add what you consider to the the BEST links to online resources that corr
    - How to Stake 
      - https://youtu.be/8K7A_j5_VIU
    - Ticket Splitting
+     - https://medium.com/decred/dcr-ticket-splitting-all-you-need-to-know-b8edc6b65db3
+     - https://www.youtube.com/watch?v=XsVJ1WWsWlA
+     - https://www.youtube.com/watch?v=9L8P7hL5v6w
+     - https://docs.decred.org/proof-of-stake/ticket-splitting/
 
 7. Funding, Contractor Model, and the Decred DAO
    - Decred Treasury

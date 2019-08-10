@@ -35,6 +35,7 @@ Please add what you consider to the the BEST links to online resources that corr
 
 2. Go Deeper: Decred & Its Features
    - The Airdrop
+     - https://forum.decred.org/threads/airdrop-rundown.313/
    - Decred as a Store Value
    - Decred as a DAO 
    - Decred vs. Other Cryptocurrencies

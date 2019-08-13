@@ -112,9 +112,13 @@ Please add what you consider to the the BEST links to online resources that corr
 
 8. Decred Tutorials & How-Tos 
    - How to Send and Receive Decred
+     - working on this
    - How to Mine
-   - How to Set Up a Wallet
+     - https://docs.decred.org/mining/proof-of-work/pool-mining/gominer/
+   - How to Set Up a Walle
+     - working on this
    - How to Use Politeia
+     - working on this
 
 9. Other Resources 
    - Network Statistics [Interface example](https://d.pr/i/JK7ojb)
@@ -122,3 +126,4 @@ Please add what you consider to the the BEST links to online resources that corr
    - Block Explorers
      - https://explorer.dcrdata.org/
    - Mining
+     - https://docs.decred.org/mining/overview/

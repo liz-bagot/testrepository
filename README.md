@@ -46,6 +46,7 @@ Please add what you consider to the the BEST links to online resources that corr
    - Privacy _(Links to include: Upcoming blogs (comparative, explanative)_
    - DEX _(Links to include: Stuff about Atomic Swaps)_
      - https://blog.decred.org/2018/06/05/A-New-Kind-of-DEX/
+     https://github.com/decred/dcrdex
    - Scaling Solution (Lightning Network)
 
 3. Why Own Decred?

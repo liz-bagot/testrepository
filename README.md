@@ -1,6 +1,6 @@
 
  # Decred Educational Resources Repository: Schema
- 
+
 Decred’s target audiences need to be better educated about Decred. Education will crystalize who Decred is, attract a wider audience, and prepare it for the next bull market. There’s a lot of good educational content in various places, but it can be difficult for journalists, crypto enthusiasts, investors, etc. to find it. While https://docs.decred.org/ is a good resource for people who already know Decred, it’s not intuitive for beginners and doesn’t pool together external resources. 
 
 We need an easy-to-find, external-facing Decred Resources Repository that helps non-Decred people get acquainted with the project by curating the very best content on each subject. Here's a sample schema we can model: https://www.lopp.net/bitcoin-information.html
@@ -18,21 +18,24 @@ Please add what you consider to the the BEST links to online resources that corr
      - https://blog.companyzero.com/2015/12/decred-rethink-digital-currency/
      - https://decred.org/research/mackenzie2013.pdf
      - https://bitcointalk.org/index.php?topic=1290358.0
+     - <https://docs.decred.org/governance/decred-constitution/>
    - Must-Reads _(Links to include: Best introductory articles for the unacquainted, e.g. blog posts, media articles, etc.)_
      - https://medium.com/@linda.xie/a-beginners-guide-to-decred-2fc61670d67c
      - https://decred.org/brief/
      - https://www.placeholder.vc/blog/2018/5/12/decred-investment-thesis
+     - https://medium.com/@maxbronstein/decred-governnce-an-iterative-approach-2a89b9751f5e
    - Must-Listens _(Links to include: Podcasts (e.g. Pomp, Chain Reaction, etc.)_
      - https://soundcloud.com/decredindepth/murad-mahmudov-dcr-investment-thesis-sov-narrative-crypto-economics
      - https://www.youtube.com/watch?v=rcEJuN7zh2M&feature=youtu.be
      - https://www.youtube.com/watch?v=tgPc1ZgtR4c
+     - <https://www.cryptobasicpodcast.com/home/180>
    - Must-Watches _(Links to include: Videos (e.g. Decred Assembly, BlockTV, other explainers)_
      - https://youtu.be/qT9oBsbzUos
      - https://blog.decred.org/2016/11/16/Upgrading-Consensus/
-     - https://events.technologyreview.com/video/watch/jake-yocom-piatt-decred-blockchain-sovereignty/
+  - https://events.technologyreview.com/video/watch/jake-yocom-piatt-decred-blockchain-sovereignty/
      - https://www.youtube.com/watch?v=E5mXtGvwelU
      - https://www.youtube.com/watch?v=TDXu5Z20Bgk
-
+   
 2. Go Deeper: Decred & Its Features
    - The Airdrop
      - https://forum.decred.org/threads/airdrop-rundown.313/
@@ -47,12 +50,13 @@ Please add what you consider to the the BEST links to online resources that corr
 
 3. Why Own Decred?
    - Decred Ownership Thesis 
-      - https://www.blockheadcap.com/post/decred-investment-thesis
       - https://www.placeholder.vc/blog/2018/5/12/decred-investment-thesis
    - What Investors Are Saying About Decred _(Links to include: Materials written by economists/finance people (e.g. Murad, Chris Burniske, etc.)_
      -  https://soundcloud.com/decredindepth/murad-mahmudov-dcr-investment-thesis-sov-narrative-crypto-economics
      - https://static1.squarespace.com/static/5a479ee3b7411c6102f75729/t/5beb31eb6d2a73d37e82093b/1542140423818/Decred+Analysis+-+Alex+Evans.pdf
-
+     - <https://medium.com/@BlueYard/decred-82b284b4a795>
+  - <https://www.blockheadcap.com/post/decred-investment-thesis>
+   
 4. Governance: Hybrid PoW/PoS 
    - Introduction to Decred Governance
       - https://docs.decred.org/governance/overview/
@@ -62,6 +66,7 @@ Please add what you consider to the the BEST links to online resources that corr
      - https://www.binance.vision/blockchain/hybrid-pow-pos-consensus-explained
    - Why Hybrid PoW/PoS?
      - https://blog.decred.org/2016/11/16/Upgrading-Consensus/
+     - <https://medium.com/@richardred/what-is-on-chain-cryptocurrency-governance-is-it-plutocratic-bfb407ef6f1>
    - Security
       - https://blog.usejournal.com/apples-to-apples-decred-is-20x-more-expensive-to-attack-than-bitcoin-68bafeb4546f
       - https://medium.com/decred/decreds-hybrid-protocol-a-superior-deterrent-to-majority-attacks-9421bf486292
@@ -69,10 +74,11 @@ Please add what you consider to the the BEST links to online resources that corr
       - https://medium.com/@richardred/the-role-of-decred-voters-in-defending-against-majority-attacks-ec658af0a8fd
    - Adaptability
    - Self-Funding
+   - 
    - Staking _(Link to staking section)_
-   - Ticketing _(Link to ticketing section)_
+- Ticketing _(Link to ticketing section)_
    - Politeia _(Link to Politeia section)_
-
+   
 5. Politeia
    - Overview
       - https://blog.decred.org/2017/10/25/Politeia/

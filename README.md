@@ -80,6 +80,7 @@ Please add what you consider to the the BEST links to online resources that corr
       - https://medium.com/decred/decreds-hybrid-protocol-a-superior-deterrent-to-majority-attacks-9421bf486292
       - https://medium.com/decred/detailed-analysis-of-decred-fork-resistance-93022e0bcde7
       - https://medium.com/@richardred/the-role-of-decred-voters-in-defending-against-majority-attacks-ec658af0a8fd
+      - https://www.youtube.com/watch?v=IYb4ongo7ls
    - Adaptability
    - Self-Funding
    - 

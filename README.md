@@ -44,6 +44,11 @@ Please add what you consider to the the BEST links to online resources that corr
    - Decred vs. Other Cryptocurrencies
    - Deep Dive Technical Resources
      - https://stakey.club/en/the-decred-structure/
+     - https://stakey.club/en/verifying-digital-signatures-decred/
+     - https://stakey.club/en/decred-verifier/
+     - https://stakey.club/en/sharing-the-dcrd/
+     - https://stakey.club/en/digital-certificates-for-rpc-connections/
+     
    - Privacy _(Links to include: Upcoming blogs (comparative, explanative)_
    - DEX _(Links to include: Stuff about Atomic Swaps)_
      - https://blog.decred.org/2018/06/05/A-New-Kind-of-DEX/
@@ -123,8 +128,10 @@ Please add what you consider to the the BEST links to online resources that corr
      - working on this
    - How to Mine
      - https://docs.decred.org/mining/proof-of-work/pool-mining/gominer/
-   - How to Set Up a Walle
+   - How to Set Up a Wallet
      - working on this
+     - https://stakey.club/en/decrediton-setup/
+     - https://stakey.club/en/deleting-the-wallet/
    - How to Use Politeia
      - working on this
 

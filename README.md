@@ -17,7 +17,7 @@ Please add what you consider to the the BEST links to online resources that corr
      - https://blog.companyzero.com/2015/11/bitcoins-biggest-challenges/
      - https://blog.companyzero.com/2015/12/decred-rethink-digital-currency/
      - https://decred.org/research/mackenzie2013.pdf
-     - https://bitcointalk.org/index.php?topic=1290358.0
+     - https://bitcointalk.org/index.php?topic=1290358.
      - <https://docs.decred.org/governance/decred-constitution/>
    - Must-Reads _(Links to include: Best introductory articles for the unacquainted, e.g. blog posts, media articles, etc.)_
      - https://medium.com/@linda.xie/a-beginners-guide-to-decred-2fc61670d67c
@@ -43,6 +43,7 @@ Please add what you consider to the the BEST links to online resources that corr
    - Decred as a DAO 
    - Decred vs. Other Cryptocurrencies
    - Deep Dive Technical Resources
+     - https://stakey.club/en/the-decred-structure/
    - Privacy _(Links to include: Upcoming blogs (comparative, explanative)_
    - DEX _(Links to include: Stuff about Atomic Swaps)_
      - https://blog.decred.org/2018/06/05/A-New-Kind-of-DEX/

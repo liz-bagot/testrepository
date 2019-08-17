@@ -42,6 +42,7 @@ Please add what you consider to the the BEST links to online resources that corr
      - https://forum.decred.org/threads/airdrop-rundown.313/
    - Decred as a Store Value
    - Decred as a DAO 
+     - https://breakermag.com/decred-is-letting-users-choose-how-to-spend-its-28-million-dev-budget/
    - Decred vs. Other Cryptocurrencies
    - Deep Dive Technical Resources
      - https://stakey.club/en/the-decred-structure/

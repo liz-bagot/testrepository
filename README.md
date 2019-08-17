@@ -43,7 +43,9 @@ Please add what you consider to the the BEST links to online resources that corr
    - Decred as a Store Value
    - Decred as a DAO 
      - https://breakermag.com/decred-is-letting-users-choose-how-to-spend-its-28-million-dev-budget/
+     - https://www.cryptonewsz.com/how-close-to-absolute-decentralization-is-decreds-unique-consensus-mechanism/8998/
    - Decred vs. Other Cryptocurrencies
+     - https://cryptobriefing.com/decred-bitcoin-plus-autonomy/
    - Deep Dive Technical Resources
      - https://stakey.club/en/the-decred-structure/
      - https://stakey.club/en/verifying-digital-signatures-decred/

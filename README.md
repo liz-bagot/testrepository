@@ -108,6 +108,7 @@ Please add what you consider to the the BEST links to online resources that corr
 
 6. Staking _(Link to staking section)_
    - Overview
+     - https://thedecreddigest.com/2017/12/11/the-top-5-reasons-to-become-a-decred-stakeholder/
      - https://www.coindesk.com/staking-isnt-just-a-way-to-earn-crypto-money-and-it-shouldnt-be
      - https://blog.decred.org/2017/04/03/A-New-Ticket-Price-Algorithm/
    - How to Stake 
@@ -127,6 +128,7 @@ Please add what you consider to the the BEST links to online resources that corr
    - How to Become a Contractor
      - https://medium.com/decred/how-to-get-hired-as-a-decred-contractor-e1435842df10
    - What the Decred DAO Means
+     - https://thedecreddigest.com/2017/08/11/the-road-to-the-decred-dao-a-self-funding-cryptocurrency/
 
 8. Decred Tutorials & How-Tos 
    - How to Send and Receive Decred

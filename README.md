@@ -42,6 +42,8 @@ Please add what you consider to the the BEST links to online resources that corr
    - The Airdrop
      - https://forum.decred.org/threads/airdrop-rundown.313/
    - Decred as a Store Value
+     - https://bravenewcoin.com/insights/decred-price-analysis-emergence-as-a-digital-store-of-value
+     - https://seekingalpha.com/article/4235521-fundamental-value-crypto-bitcoin-decred-store-value-investments
    - Decred as a DAO 
      - https://breakermag.com/decred-is-letting-users-choose-how-to-spend-its-28-million-dev-budget/
      - https://www.cryptonewsz.com/how-close-to-absolute-decentralization-is-decreds-unique-consensus-mechanism/8998/
@@ -58,7 +60,7 @@ Please add what you consider to the the BEST links to online resources that corr
    - DEX _(Links to include: Stuff about Atomic Swaps)_
      - https://blog.decred.org/2018/06/05/A-New-Kind-of-DEX/
      - https://thedecreddigest.com/2017/09/27/decred-cross-chain-atomic-swaps-eliminating-trust-from-trades/
-     https://github.com/decred/dcrdex
+     - https://github.com/decred/dcrdex
    - Scaling Solution (Lightning Network)
 
 3. Why Own Decred?
@@ -123,7 +125,7 @@ Please add what you consider to the the BEST links to online resources that corr
 
 7. Funding, Contractor Model, and the Decred DAO
    - Decred Treasury
-      - https://www.coindesk.com/decred-is-turning-its-entire-21-million-crypto-treasury-over-to-investors
+     - https://www.coindesk.com/decred-is-turning-its-entire-21-million-crypto-treasury-over-to-investors
    - How Decred’s Contractor Model Works
      - https://medium.com/@richardred/working-for-the-decred-dae-a9cfb17686fa
      - https://docs.decred.org/contributing/contributing-to-decred/
@@ -137,6 +139,7 @@ Please add what you consider to the the BEST links to online resources that corr
      - working on this
    - How to Mine
      - https://docs.decred.org/mining/proof-of-work/pool-mining/gominer/
+     - https://howtomine.com/decred/
    - How to Set Up a Wallet
      - working on this
      - https://stakey.club/en/decrediton-setup/
@@ -150,6 +153,7 @@ Please add what you consider to the the BEST links to online resources that corr
    - Network Statistics [Interface example](https://d.pr/i/JK7ojb)
      - I'd like to finish a web based interface that has all historical data. Thoughts?
      - https://dcrstats.com
+     - http://stats.decredbrasil.com
    - Block Explorers
      - https://mainnet.decred.org
      - https://explorer.dcrdata.org/

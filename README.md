@@ -13,6 +13,7 @@ Please add what you consider to the the BEST links to online resources that corr
 1. Beginner’s Guide to Decred: The Basics 
    - Mission & Vision (text) 
      - https://stakey.club/en/the-origin-of-decred/
+     - https://www.investitin.com/decred-altcoin-review/
    - History of Decred: Foundational Documents
      - https://blog.companyzero.com/2015/12/iterating-bitcoin/
      - https://blog.companyzero.com/2015/11/bitcoins-biggest-challenges/
@@ -56,6 +57,7 @@ Please add what you consider to the the BEST links to online resources that corr
    - Privacy _(Links to include: Upcoming blogs (comparative, explanative)_
    - DEX _(Links to include: Stuff about Atomic Swaps)_
      - https://blog.decred.org/2018/06/05/A-New-Kind-of-DEX/
+     - https://thedecreddigest.com/2017/09/27/decred-cross-chain-atomic-swaps-eliminating-trust-from-trades/
      https://github.com/decred/dcrdex
    - Scaling Solution (Lightning Network)
 
@@ -141,11 +143,15 @@ Please add what you consider to the the BEST links to online resources that corr
      - https://stakey.club/en/deleting-the-wallet/
    - How to Use Politeia
      - working on this
+   - How to Use the Block Explorer
+     - https://www.youtube.com/watch?v=5BiW-qHJOmo
 
 9. Other Resources 
    - Network Statistics [Interface example](https://d.pr/i/JK7ojb)
      - I'd like to finish a web based interface that has all historical data. Thoughts?
+     - https://dcrstats.com
    - Block Explorers
+     - https://mainnet.decred.org
      - https://explorer.dcrdata.org/
    - Mining
      - https://docs.decred.org/mining/overview/

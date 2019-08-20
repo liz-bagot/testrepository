@@ -50,6 +50,7 @@ Please add what you consider to the the BEST links to online resources that corr
      - https://www.cryptonewsz.com/how-close-to-absolute-decentralization-is-decreds-unique-consensus-mechanism/8998/
    - Decred vs. Other Cryptocurrencies
      - https://cryptobriefing.com/decred-bitcoin-plus-autonomy/
+     - https://www.smithandcrown.com/wp-content/uploads/2019/03/SmithandCrown-Decred-Deep-Dive-Report.pdf
    - Deep Dive Technical Resources
      - https://stakey.club/en/the-decred-structure/
      - https://stakey.club/en/verifying-digital-signatures-decred/

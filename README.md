@@ -60,6 +60,7 @@ Please add what you consider to the the BEST links to online resources that corr
      - https://stakey.club/en/digital-certificates-for-rpc-connections/
      
    - Privacy _(Links to include: Upcoming blogs (comparative, explanative)_
+     - https://blog.decred.org/2019/08/21/Surveying-the-Privacy-Landscape
    - DEX _(Links to include: Stuff about Atomic Swaps)_
      - https://blog.decred.org/2018/06/05/A-New-Kind-of-DEX/
      - https://thedecreddigest.com/2017/09/27/decred-cross-chain-atomic-swaps-eliminating-trust-from-trades/

@@ -35,7 +35,7 @@ Please add what you consider to the the BEST links to online resources that corr
    - Must-Watches _(Links to include: Videos (e.g. Decred Assembly, BlockTV, other explainers)_
      - https://youtu.be/qT9oBsbzUos
      - https://blog.decred.org/2016/11/16/Upgrading-Consensus/
-  - https://events.technologyreview.com/video/watch/jake-yocom-piatt-decred-blockchain-sovereignty/
+     - https://events.technologyreview.com/video/watch/jake-yocom-piatt-decred-blockchain-sovereignty/
      - https://www.youtube.com/watch?v=E5mXtGvwelU
      - https://www.youtube.com/watch?v=TDXu5Z20Bgk
    
@@ -51,6 +51,7 @@ Please add what you consider to the the BEST links to online resources that corr
    - Decred vs. Other Cryptocurrencies
      - https://cryptobriefing.com/decred-bitcoin-plus-autonomy/
      - https://www.smithandcrown.com/wp-content/uploads/2019/03/SmithandCrown-Decred-Deep-Dive-Report.pdf
+     - https://cointelegraph.com/news/governing-decentralization-how-on-chain-voting-protocols-operate-and-vary
    - Deep Dive Technical Resources
      - https://stakey.club/en/the-decred-structure/
      - https://stakey.club/en/verifying-digital-signatures-decred/
@@ -92,7 +93,7 @@ Please add what you consider to the the BEST links to online resources that corr
       - https://www.youtube.com/watch?v=IYb4ongo7ls
    - Adaptability
    - Self-Funding
-   - 
+     - https://evolvement.io/how-decred-revolutionizes-funding-in-crypto-with-marco-peereboom-transcript/
    - Staking _(Link to staking section)_
 - Ticketing _(Link to ticketing section)_
    - Politeia _(Link to Politeia section)_

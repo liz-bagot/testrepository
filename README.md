@@ -66,7 +66,10 @@ Please add what you consider to the the BEST links to online resources that corr
      - https://thedecreddigest.com/2017/09/27/decred-cross-chain-atomic-swaps-eliminating-trust-from-trades/
      - https://github.com/decred/dcrdex
    - Scaling Solution (Lightning Network)
-
+     - https://docs.decred.org/wallets/lightning/
+     - https://blog.decred.org/2017/05/23/Lightning-Network-in-Practice/
+     - https://seekingalpha.com/instablog/22912651-daniel-jennings/5241781-decred-dcr-harnesses-lightning-network
+     - https://decredcommunity.org/videos/decred-assembly-ep4-the-lightning-network-w/-guest-laolu-roasbeef-osuntokun
 3. Why Own Decred?
    - Decred Ownership Thesis 
       - https://www.placeholder.vc/blog/2018/5/12/decred-investment-thesis

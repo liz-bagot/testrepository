@@ -38,6 +38,9 @@ Please add what you consider to the the BEST links to online resources that corr
      - https://events.technologyreview.com/video/watch/jake-yocom-piatt-decred-blockchain-sovereignty/
      - https://www.youtube.com/watch?v=E5mXtGvwelU
      - https://www.youtube.com/watch?v=TDXu5Z20Bgk
+     - https://decredcommunity.org/videos/decred-assembly-ep1-intro-to-decred-w/-guest-dave-collins-(lead-dev-of-decred)
+     - https://decredcommunity.org/videos/decred-assembly-ep14-crypto-estate-planning-and-daos-w/-pamela-morgan
+     - https://decredcommunity.org/videos/decred-assembly-ep5-btcd,-uasf(bip148/bip149)-and-more-w/-guests-jimmy-song-and-dave-collins
    
 2. Go Deeper: Decred & Its Features
    - The Airdrop
@@ -70,6 +73,7 @@ Please add what you consider to the the BEST links to online resources that corr
      - https://blog.decred.org/2017/05/23/Lightning-Network-in-Practice/
      - https://seekingalpha.com/instablog/22912651-daniel-jennings/5241781-decred-dcr-harnesses-lightning-network
      - https://decredcommunity.org/videos/decred-assembly-ep4-the-lightning-network-w/-guest-laolu-roasbeef-osuntokun
+     - https://decredcommunity.org/videos/decred-assembly-ep13-on-chain-atomic-swaps-lightning-network-w/-dave-collins-and-charlie-lee
 3. Why Own Decred?
    - Decred Ownership Thesis 
       - https://www.placeholder.vc/blog/2018/5/12/decred-investment-thesis

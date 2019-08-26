@@ -48,6 +48,7 @@ Please add what you consider to the the BEST links to online resources that corr
    - Decred as a Store Value
      - https://bravenewcoin.com/insights/decred-price-analysis-emergence-as-a-digital-store-of-value
      - https://seekingalpha.com/article/4235521-fundamental-value-crypto-bitcoin-decred-store-value-investments
+     - https://medium.com/@imagnusholdings/sov-and-the-four-turnings-c1ba7220b7ac
    - Decred as a DAO 
      - https://breakermag.com/decred-is-letting-users-choose-how-to-spend-its-28-million-dev-budget/
      - https://www.cryptonewsz.com/how-close-to-absolute-decentralization-is-decreds-unique-consensus-mechanism/8998/
@@ -55,6 +56,7 @@ Please add what you consider to the the BEST links to online resources that corr
      - https://cryptobriefing.com/decred-bitcoin-plus-autonomy/
      - https://www.smithandcrown.com/wp-content/uploads/2019/03/SmithandCrown-Decred-Deep-Dive-Report.pdf
      - https://cointelegraph.com/news/governing-decentralization-how-on-chain-voting-protocols-operate-and-vary
+     - https://medium.com/@imagnusholdings/bitcoin-decred-historical-documents-of-a-digital-financial-revolution-4debfa0d10d9
    - Deep Dive Technical Resources
      - https://stakey.club/en/the-decred-structure/
      - https://stakey.club/en/verifying-digital-signatures-decred/
@@ -128,6 +130,7 @@ Please add what you consider to the the BEST links to online resources that corr
      - https://blog.decred.org/2017/04/03/A-New-Ticket-Price-Algorithm/
    - How to Stake 
      - https://youtu.be/8K7A_j5_VIU
+     - https://medium.com/@dcrthegreat/how-to-stake-dcr-decred-e6c43e052fde
    - Ticket Splitting
      - https://medium.com/decred/dcr-ticket-splitting-all-you-need-to-know-b8edc6b65db3
      - https://www.youtube.com/watch?v=XsVJ1WWsWlA
@@ -142,6 +145,7 @@ Please add what you consider to the the BEST links to online resources that corr
      - https://docs.decred.org/contributing/contributing-to-decred/
    - How to Become a Contractor
      - https://medium.com/decred/how-to-get-hired-as-a-decred-contractor-e1435842df10
+     - https://youtu.be/A-zcLGSYxbA
    - What the Decred DAO Means
      - https://thedecreddigest.com/2017/08/11/the-road-to-the-decred-dao-a-self-funding-cryptocurrency/
 

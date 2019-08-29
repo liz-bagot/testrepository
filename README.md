@@ -67,6 +67,10 @@ Please add what you consider to the the BEST links to online resources that corr
    - Privacy _(Links to include: Upcoming blogs (comparative, explanative)_
      - https://blog.decred.org/2019/08/21/Surveying-the-Privacy-Landscape
      - https://unchainedpodcast.com/after-years-of-secret-work-decred-adds-a-new-feature-privacy/ 
+     - Jake Yocom-Piatt talking about Decred privacy
+
+https://blog.decred.org/2019/08/28/Iterating-Privacy/
+
    - DEX _(Links to include: Stuff about Atomic Swaps)_
      - https://blog.decred.org/2018/06/05/A-New-Kind-of-DEX/
      - https://thedecreddigest.com/2017/09/27/decred-cross-chain-atomic-swaps-eliminating-trust-from-trades/
@@ -80,6 +84,7 @@ Please add what you consider to the the BEST links to online resources that corr
 3. Why Own Decred?
    - Decred Ownership Thesis 
       - https://www.placeholder.vc/blog/2018/5/12/decred-investment-thesis
+      - https://www.blockheadcap.com/post/decred-investment-thesis
    - What Investors Are Saying About Decred _(Links to include: Materials written by economists/finance people (e.g. Murad, Chris Burniske, etc.)_
      -  https://soundcloud.com/decredindepth/murad-mahmudov-dcr-investment-thesis-sov-narrative-crypto-economics
      - https://static1.squarespace.com/static/5a479ee3b7411c6102f75729/t/5beb31eb6d2a73d37e82093b/1542140423818/Decred+Analysis+-+Alex+Evans.pdf

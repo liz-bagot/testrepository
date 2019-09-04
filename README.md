@@ -20,7 +20,7 @@ Please add what you consider to the the BEST links to online resources that corr
      - https://blog.companyzero.com/2015/12/decred-rethink-digital-currency/
      - https://decred.org/research/mackenzie2013.pdf
      - https://bitcointalk.org/index.php?topic=1290358.
-     - <https://docs.decred.org/governance/decred-constitution/>
+     - https://docs.decred.org/governance/decred-constitution/
    - Must-Reads _(Links to include: Best introductory articles for the unacquainted, e.g. blog posts, media articles, etc.)_
      - https://medium.com/@linda.xie/a-beginners-guide-to-decred-2fc61670d67c
      - https://decred.org/brief/
@@ -67,9 +67,8 @@ Please add what you consider to the the BEST links to online resources that corr
    - Privacy _(Links to include: Upcoming blogs (comparative, explanative)_
      - https://blog.decred.org/2019/08/21/Surveying-the-Privacy-Landscape
      - https://unchainedpodcast.com/after-years-of-secret-work-decred-adds-a-new-feature-privacy/ 
-     - Jake Yocom-Piatt talking about Decred privacy
-
-https://blog.decred.org/2019/08/28/Iterating-Privacy/
+     - https://modernconsensus.com/cryptocurrencies/alt-coins/decred-cryptocurrency-launches-launches-privacy-mixing-feature/
+     - https://blog.decred.org/2019/08/28/Iterating-Privacy/
 
    - DEX _(Links to include: Stuff about Atomic Swaps)_
      - https://blog.decred.org/2018/06/05/A-New-Kind-of-DEX/
@@ -88,8 +87,8 @@ https://blog.decred.org/2019/08/28/Iterating-Privacy/
    - What Investors Are Saying About Decred _(Links to include: Materials written by economists/finance people (e.g. Murad, Chris Burniske, etc.)_
      -  https://soundcloud.com/decredindepth/murad-mahmudov-dcr-investment-thesis-sov-narrative-crypto-economics
      - https://static1.squarespace.com/static/5a479ee3b7411c6102f75729/t/5beb31eb6d2a73d37e82093b/1542140423818/Decred+Analysis+-+Alex+Evans.pdf
-     - <https://medium.com/@BlueYard/decred-82b284b4a795>
-  - <https://www.blockheadcap.com/post/decred-investment-thesis>
+     - https://medium.com/@BlueYard/decred-82b284b4a795
+     - https://www.blockheadcap.com/post/decred-investment-thesis
    
 4. Governance: Hybrid PoW/PoS 
    - Introduction to Decred Governance
@@ -100,7 +99,7 @@ https://blog.decred.org/2019/08/28/Iterating-Privacy/
      - https://www.binance.vision/blockchain/hybrid-pow-pos-consensus-explained
    - Why Hybrid PoW/PoS?
      - https://blog.decred.org/2016/11/16/Upgrading-Consensus/
-     - <https://medium.com/@richardred/what-is-on-chain-cryptocurrency-governance-is-it-plutocratic-bfb407ef6f1>
+     - https://medium.com/@richardred/what-is-on-chain-cryptocurrency-governance-is-it-plutocratic-bfb407ef6f1
    - Security
       - https://blog.usejournal.com/apples-to-apples-decred-is-20x-more-expensive-to-attack-than-bitcoin-68bafeb4546f
       - https://medium.com/decred/decreds-hybrid-protocol-a-superior-deterrent-to-majority-attacks-9421bf486292

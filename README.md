@@ -45,39 +45,36 @@ Please add what you consider to the the BEST links to online resources that corr
 2. Go Deeper: Decred & Its Features
    - The Airdrop
      - https://forum.decred.org/threads/airdrop-rundown.313/
-   - Decred as a Store Value
+	 - https://docs.decred.org/advanced/premine/
+   - Decred as a Store of Value
      - https://bravenewcoin.com/insights/decred-price-analysis-emergence-as-a-digital-store-of-value
+	 - https://medium.com/@_Checkmatey_/monetary-premiums-can-altcoins-compete-with-bitcoin-54c97a92c6d4
      - https://seekingalpha.com/article/4235521-fundamental-value-crypto-bitcoin-decred-store-value-investments
-     - https://medium.com/@imagnusholdings/sov-and-the-four-turnings-c1ba7220b7ac
    - Decred as a DAO 
-     - https://breakermag.com/decred-is-letting-users-choose-how-to-spend-its-28-million-dev-budget/
+     - https://medium.com/decred/on-the-launch-of-decreds-politeia-b305d06d8bda
+	 - https://breakermag.com/decred-is-letting-users-choose-how-to-spend-its-28-million-dev-budget/
      - https://www.cryptonewsz.com/how-close-to-absolute-decentralization-is-decreds-unique-consensus-mechanism/8998/
    - Decred vs. Other Cryptocurrencies
-     - https://cryptobriefing.com/decred-bitcoin-plus-autonomy/
      - https://www.smithandcrown.com/wp-content/uploads/2019/03/SmithandCrown-Decred-Deep-Dive-Report.pdf
      - https://cointelegraph.com/news/governing-decentralization-how-on-chain-voting-protocols-operate-and-vary
-     - https://medium.com/@imagnusholdings/bitcoin-decred-historical-documents-of-a-digital-financial-revolution-4debfa0d10d9
    - Deep Dive Technical Resources
      - https://stakey.club/en/the-decred-structure/
      - https://stakey.club/en/verifying-digital-signatures-decred/
-     - https://stakey.club/en/decred-verifier/
      - https://stakey.club/en/sharing-the-dcrd/
-     - https://stakey.club/en/digital-certificates-for-rpc-connections/
-     
+     - https://stakey.club/en/digital-certificates-for-rpc-connections/  
    - Privacy _(Links to include: Upcoming blogs (comparative, explanative)_
      - https://blog.decred.org/2019/08/21/Surveying-the-Privacy-Landscape
      - https://unchainedpodcast.com/after-years-of-secret-work-decred-adds-a-new-feature-privacy/ 
      - https://modernconsensus.com/cryptocurrencies/alt-coins/decred-cryptocurrency-launches-launches-privacy-mixing-feature/
      - https://blog.decred.org/2019/08/28/Iterating-Privacy/
-
+	 - https://medium.com/decred/decred-privacy-taking-the-long-road-62d218223db6
    - DEX _(Links to include: Stuff about Atomic Swaps)_
      - https://blog.decred.org/2018/06/05/A-New-Kind-of-DEX/
-     - https://thedecreddigest.com/2017/09/27/decred-cross-chain-atomic-swaps-eliminating-trust-from-trades/
      - https://github.com/decred/dcrdex
    - Scaling Solution (Lightning Network)
      - https://docs.decred.org/wallets/lightning/
+	 - https://matheusd.com/post/announcing-dcrlnd/
      - https://blog.decred.org/2017/05/23/Lightning-Network-in-Practice/
-     - https://seekingalpha.com/instablog/22912651-daniel-jennings/5241781-decred-dcr-harnesses-lightning-network
      - https://decredcommunity.org/videos/decred-assembly-ep4-the-lightning-network-w/-guest-laolu-roasbeef-osuntokun
      - https://decredcommunity.org/videos/decred-assembly-ep13-on-chain-atomic-swaps-lightning-network-w/-dave-collins-and-charlie-lee
 3. Why Own Decred?

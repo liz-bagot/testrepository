@@ -82,13 +82,20 @@ Please add what you consider to the the BEST links to online resources that corr
      - https://decredcommunity.org/videos/decred-assembly-ep13-on-chain-atomic-swaps-lightning-network-w/-dave-collins-and-charlie-lee
 3. Why Own Decred?
    - Decred Ownership Thesis 
-      - https://www.placeholder.vc/blog/2018/5/12/decred-investment-thesis
-      - https://www.blockheadcap.com/post/decred-investment-thesis
+      - Placeholder VC investment thesis: https://www.placeholder.vc/blog/2018/5/12/decred-investment-thesis
+      - Blockheadcap investment thesis: https://www.blockheadcap.com/post/decred-investment-thesis
+      - Blueyard invetment thesis: https://medium.com/@BlueYard/decred-82b284b4a795
    - What Investors Are Saying About Decred _(Links to include: Materials written by economists/finance people (e.g. Murad, Chris Burniske, etc.)_
-     -  https://soundcloud.com/decredindepth/murad-mahmudov-dcr-investment-thesis-sov-narrative-crypto-economics
-     - https://static1.squarespace.com/static/5a479ee3b7411c6102f75729/t/5beb31eb6d2a73d37e82093b/1542140423818/Decred+Analysis+-+Alex+Evans.pdf
-     - https://medium.com/@BlueYard/decred-82b284b4a795
-     - https://www.blockheadcap.com/post/decred-investment-thesis
+     -  Murad Mahmudov investment thesis: https://soundcloud.com/decredindepth/murad-mahmudov-dcr-investment-thesis-sov-narrative-crypto-economics
+     - Alex Evans investment thesis: https://static1.squarespace.com/static/5a479ee3b7411c6102f75729/t/5beb31eb6d2a73d37e82093b/1542140423818/Decred+Analysis+-+Alex+Evans.pdf
+     - Joel Monegro invetment thesis: https://decredindepth.libsyn.com/-joel-monegro-placeholder-capital-dcr-investment-thesis-0
+   
+     
+     Some videos that could be related to the investment thesis of Decred:
+- Decred For Investors #9 - Decred Voting & Staking Explained - By Tai Zen, Leon Fu & Marco Peereboom https://www.youtube.com/watch?v=PIToIO6xHw4
+- Placeholder VC's Chris Burniske & Alex Evans @ OKCoin's $DCR/USD Listing https://www.youtube.com/watch?v=FG0c07kXRzA (this is very good) 
+- Decred For Investors #1 - What Is Decred? - By Tai Zen & Decred Jesus https://www.youtube.com/watch?v=pDUf5J_3Y6A 
+- Decred For Investors #2 - What Makes Decred Different? - By Tai Zen & Decred Jesus https://www.youtube.com/watch?v=mbuydmq3v04 
    
 4. Governance: Hybrid PoW/PoS 
    - Introduction to Decred Governance

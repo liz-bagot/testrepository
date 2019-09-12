@@ -89,6 +89,7 @@ Please add what you consider to the the BEST links to online resources that corr
      -  Murad Mahmudov investment thesis: https://soundcloud.com/decredindepth/murad-mahmudov-dcr-investment-thesis-sov-narrative-crypto-economics
      - Alex Evans investment thesis: https://static1.squarespace.com/static/5a479ee3b7411c6102f75729/t/5beb31eb6d2a73d37e82093b/1542140423818/Decred+Analysis+-+Alex+Evans.pdf
      - Joel Monegro invetment thesis: https://decredindepth.libsyn.com/-joel-monegro-placeholder-capital-dcr-investment-thesis-0
+     - Wally Hansen investment thesis: https://medium.com/@wallyhansen/decred-an-investment-thesis-bf9ba3cd1042 
    
      
      Some videos that could be related to the investment thesis of Decred:

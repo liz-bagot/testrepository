@@ -12,8 +12,7 @@ Please add what you consider to the the BEST links to online resources that corr
 
 1. Beginner’s Guide to Decred: The Basics 
    - Mission & Vision (text) 
-     - https://stakey.club/en/the-origin-of-decred/
-     - https://www.investitin.com/decred-altcoin-review/
+
    - History of Decred: Foundational Documents
      - https://blog.companyzero.com/2015/12/iterating-bitcoin/
      - https://blog.companyzero.com/2015/11/bitcoins-biggest-challenges/

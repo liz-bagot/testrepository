@@ -32,6 +32,7 @@ Please add what you consider to the the BEST links to online resources that corr
      - https://www.youtube.com/watch?v=rcEJuN7zh2M&feature=youtu.be
      - https://www.youtube.com/watch?v=tgPc1ZgtR4c
      - <https://www.cryptobasicpodcast.com/home/180>
+     https://fiftyonepercent.podbean.com/e/decreds-jake-yocom-piatt-a-differentiated-cryptos-goal-of-overtaking-bitcoin/
    - Must-Watches _(Links to include: Videos (e.g. Decred Assembly, BlockTV, other explainers)_
      - https://youtu.be/qT9oBsbzUos
      - https://blog.decred.org/2016/11/16/Upgrading-Consensus/
@@ -52,6 +53,7 @@ Please add what you consider to the the BEST links to online resources that corr
    - Decred as a DAO 
      - https://breakermag.com/decred-is-letting-users-choose-how-to-spend-its-28-million-dev-budget/
      - https://www.cryptonewsz.com/how-close-to-absolute-decentralization-is-decreds-unique-consensus-mechanism/8998/
+     https://medium.com/decred/politeia-approaching-escape-velocity-30f95f8b2055
    - Decred vs. Other Cryptocurrencies
      - https://cryptobriefing.com/decred-bitcoin-plus-autonomy/
      - https://www.smithandcrown.com/wp-content/uploads/2019/03/SmithandCrown-Decred-Deep-Dive-Report.pdf

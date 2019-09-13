@@ -12,6 +12,7 @@ Please add what you consider to the the BEST links to online resources that corr
 
 1. Beginner’s Guide to Decred: The Basics 
    - Mission & Vision (text) 
+   https://medium.com/decred/decred-where-did-it-all-begin-6d63b5c62fc4
      - https://stakey.club/en/the-origin-of-decred/
      - https://www.investitin.com/decred-altcoin-review/
    - History of Decred: Foundational Documents
@@ -25,7 +26,7 @@ Please add what you consider to the the BEST links to online resources that corr
      - https://medium.com/@linda.xie/a-beginners-guide-to-decred-2fc61670d67c
      - https://decred.org/brief/
      - https://www.placeholder.vc/blog/2018/5/12/decred-investment-thesis
-     - https://medium.com/@maxbronstein/decred-governnce-an-iterative-approach-2a89b9751f5e
+    
      - https://www.coinspeaker.com/decred-releases-v1-0-worlds-first-cryptocurrency-people-people-people/
    - Must-Listens _(Links to include: Podcasts (e.g. Pomp, Chain Reaction, etc.)_
      - https://soundcloud.com/decredindepth/murad-mahmudov-dcr-investment-thesis-sov-narrative-crypto-economics

@@ -34,7 +34,7 @@ Please add what you consider to the the BEST links to online resources that corr
      - <https://www.cryptobasicpodcast.com/home/180>
    - Must-Watches _(Links to include: Videos (e.g. Decred Assembly, BlockTV, other explainers)_
      - https://youtu.be/qT9oBsbzUos
-     - https://blog.decred.org/2016/11/16/Upgrading-Consensus/
+  
      - https://events.technologyreview.com/video/watch/jake-yocom-piatt-decred-blockchain-sovereignty/
      - https://www.youtube.com/watch?v=E5mXtGvwelU
      - https://www.youtube.com/watch?v=TDXu5Z20Bgk
@@ -115,6 +115,7 @@ Please add what you consider to the the BEST links to online resources that corr
       - https://medium.com/@richardred/the-role-of-decred-voters-in-defending-against-majority-attacks-ec658af0a8fd
       - https://www.youtube.com/watch?v=IYb4ongo7ls
    - Adaptability
+      - https://blog.decred.org/2016/11/16/Upgrading-Consensus/
    - Self-Funding
      - https://evolvement.io/how-decred-revolutionizes-funding-in-crypto-with-marco-peereboom-transcript/
    - Staking _(Link to staking section)_

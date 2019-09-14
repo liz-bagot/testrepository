@@ -86,6 +86,7 @@ Please add what you consider to the the BEST links to online resources that corr
       - Placeholder VC investment thesis: https://www.placeholder.vc/blog/2018/5/12/decred-investment-thesis
       - Blockheadcap investment thesis: https://www.blockheadcap.com/post/decred-investment-thesis
       - Blueyard invetment thesis: https://medium.com/@BlueYard/decred-82b284b4a795
+      - Coinmonks Decred: An Investment Thesis https://medium.com/coinmonks/decred-an-investment-thesis-bf9ba3cd1042
    - What Investors Are Saying About Decred _(Links to include: Materials written by economists/finance people (e.g. Murad, Chris Burniske, etc.)_
      -  Murad Mahmudov investment thesis: https://soundcloud.com/decredindepth/murad-mahmudov-dcr-investment-thesis-sov-narrative-crypto-economics
      - Alex Evans investment thesis: https://static1.squarespace.com/static/5a479ee3b7411c6102f75729/t/5beb31eb6d2a73d37e82093b/1542140423818/Decred+Analysis+-+Alex+Evans.pdf
@@ -109,6 +110,7 @@ Please add what you consider to the the BEST links to online resources that corr
    - Why Hybrid PoW/PoS?
      - https://blog.decred.org/2016/11/16/Upgrading-Consensus/
      - https://medium.com/@richardred/what-is-on-chain-cryptocurrency-governance-is-it-plutocratic-bfb407ef6f1
+     - https://medium.com/decred/decreds-hybrid-protocol-a-superior-deterrent-to-majority-attacks-9421bf486292
    - Security
       - https://blog.usejournal.com/apples-to-apples-decred-is-20x-more-expensive-to-attack-than-bitcoin-68bafeb4546f
       - https://medium.com/decred/decreds-hybrid-protocol-a-superior-deterrent-to-majority-attacks-9421bf486292

@@ -55,7 +55,6 @@ Please add what you consider to the the BEST links to online resources that corr
      - https://www.cryptonewsz.com/how-close-to-absolute-decentralization-is-decreds-unique-consensus-mechanism/8998/
    - Decred vs. Other Cryptocurrencies
      - https://cryptobriefing.com/decred-bitcoin-plus-autonomy/
-     - https://www.smithandcrown.com/wp-content/uploads/2019/03/SmithandCrown-Decred-Deep-Dive-Report.pdf
      - https://cointelegraph.com/news/governing-decentralization-how-on-chain-voting-protocols-operate-and-vary
      - https://medium.com/@imagnusholdings/bitcoin-decred-historical-documents-of-a-digital-financial-revolution-4debfa0d10d9
    - Deep Dive Technical Resources
@@ -87,6 +86,7 @@ Please add what you consider to the the BEST links to online resources that corr
       - Blockheadcap investment thesis: https://www.blockheadcap.com/post/decred-investment-thesis
       - Blueyard invetment thesis: https://medium.com/@BlueYard/decred-82b284b4a795
       - Coinmonks Decred: An Investment Thesis https://medium.com/coinmonks/decred-an-investment-thesis-bf9ba3cd1042
+      - Smith&Crown Decred Deep Dive Report: https://www.smithandcrown.com/wp-content/uploads/2019/03/SmithandCrown-Decred-Deep-Dive-Report.pdf
    - What Investors Are Saying About Decred _(Links to include: Materials written by economists/finance people (e.g. Murad, Chris Burniske, etc.)_
      -  Murad Mahmudov investment thesis: https://soundcloud.com/decredindepth/murad-mahmudov-dcr-investment-thesis-sov-narrative-crypto-economics
      - Alex Evans investment thesis: https://static1.squarespace.com/static/5a479ee3b7411c6102f75729/t/5beb31eb6d2a73d37e82093b/1542140423818/Decred+Analysis+-+Alex+Evans.pdf

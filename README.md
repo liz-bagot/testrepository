@@ -50,6 +50,7 @@ Please add what you consider to the the BEST links to online resources that corr
      - https://seekingalpha.com/article/4235521-fundamental-value-crypto-bitcoin-decred-store-value-investments
      - https://medium.com/@imagnusholdings/sov-and-the-four-turnings-c1ba7220b7ac
    - Decred as a DAO 
+     - https://medium.com/@changhugo/decred-as-a-dae-infrastructure-provider-970677f38179
      - https://breakermag.com/decred-is-letting-users-choose-how-to-spend-its-28-million-dev-budget/
      - https://www.cryptonewsz.com/how-close-to-absolute-decentralization-is-decreds-unique-consensus-mechanism/8998/
    - Decred vs. Other Cryptocurrencies

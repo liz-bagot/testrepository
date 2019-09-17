@@ -20,7 +20,7 @@ Please add what you consider to the the BEST links to online resources that corr
      - https://blog.companyzero.com/2015/12/decred-rethink-digital-currency/
      - https://decred.org/research/mackenzie2013.pdf
      - https://bitcointalk.org/index.php?topic=1290358.
-   - [Decred Constitution](https://docs.decred.org/governance/decred-constitution/)
+     - [Decred Constitution](https://docs.decred.org/governance/decred-constitution/)
    - Must-Reads _(Links to include: Best introductory articles for the unacquainted, e.g. blog posts, media articles, etc.)_
      - https://medium.com/@linda.xie/a-beginners-guide-to-decred-2fc61670d67c
      - https://decred.org/brief/

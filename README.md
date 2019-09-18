@@ -168,105 +168,177 @@ Vision: Decred’s vision is to build a self-directed, decentralized future rule
 
 [Joel Monegro of Placeholder vc on the Decred investment thesis](https://decredindepth.libsyn.com/-joel-monegro-placeholder-capital-dcr-investment-thesis-0) on the Decred in Depth podcast
    
-4. Governance: Hybrid PoW/PoS 
-   - Introduction to Decred Governance
-      - https://docs.decred.org/governance/overview/
-      - https://blog.goodaudience.com/decentralized-off-chain-governance-in-the-context-of-digital-currencies-ef6db7d97412
-      - https://medium.com/decred/blockchain-governance-how-decred-iterates-upon-bitcoin-3cc7030c655e
-   - How Hybrid PoW/PoS Works
-     - https://www.binance.vision/blockchain/hybrid-pow-pos-consensus-explained
-     - https://docs.decred.org/proof-of-stake/overview/
-   - Why Hybrid PoW/PoS?
-     - https://blog.decred.org/2016/11/16/Upgrading-Consensus/
-     - https://medium.com/@richardred/what-is-on-chain-cryptocurrency-governance-is-it-plutocratic-bfb407ef6f1
-     - https://medium.com/decred/decreds-hybrid-protocol-a-superior-deterrent-to-majority-attacks-9421bf486292
-   - Security
-      - https://blog.usejournal.com/apples-to-apples-decred-is-20x-more-expensive-to-attack-than-bitcoin-68bafeb4546f
-      - https://medium.com/decred/decreds-hybrid-protocol-a-superior-deterrent-to-majority-attacks-9421bf486292
-      - https://medium.com/decred/detailed-analysis-of-decred-fork-resistance-93022e0bcde7
-      - https://medium.com/@richardred/the-role-of-decred-voters-in-defending-against-majority-attacks-ec658af0a8fd
-      - https://www.youtube.com/watch?v=IYb4ongo7ls
-   - Adaptability
-      - https://docs.decred.org/governance/consensus-rule-voting/overview/  
-   - Self-Funding
-     - https://evolvement.io/how-decred-revolutionizes-funding-in-crypto-with-marco-peereboom-transcript/
-     - https://medium.com/@richardred/decentralized-autonomous-funding-of-blockchain-projects-3c0c233ae4ad
-     - https://docs.decred.org/contributing/overview/
-   - Staking _(Link to staking section)_
-- Ticketing _(Link to ticketing section)_
-   - Politeia _(Link to Politeia section)_
+**4. Governance: Hybrid PoW/PoS**
+
+**_Introduction to Decred Governance_**
+
+[Introduction to Decred governance](https://docs.decred.org/governance/overview/)
+
+[How Decred approaches off-chain governance](https://blog.goodaudience.com/decentralized-off-chain-governance-in-the-context-of-digital-currencies-ef6db7d97412) by Haon of Decred
+
+[Decred vs. Bitcoin governance](https://medium.com/decred/blockchain-governance-how-decred-iterates-upon-bitcoin-3cc7030c655e) by Zubair Zia of Decred
+
+**_How Hybrid PoW/PoS Works_**
+
+[Hybrid PoW/PoS Consensus explained](https://www.binance.vision/blockchain/hybrid-pow-pos-consensus-explained) 
+
+[How PoS voting works](https://docs.decred.org/proof-of-stake/overview/)
+  
+**_Why Hybrid PoW/PoS?_**
+
+[Why Decred users should have a say in hard fork changes](https://blog.decred.org/2016/11/16/Upgrading-Consensus/) by Jake Yocom-Piatt
+
+[The advantages of stake-based governance](https://medium.com/@richardred/what-is-on-chain-cryptocurrency-governance-is-it-plutocratic-bfb407ef6f1) by Richard Red of Decred
+
+**_Security_**
+
+[Why Decred is 20x more expensive to attack than Bitcoin](https://blog.usejournal.com/apples-to-apples-decred-is-20x-more-expensive-to-attack-than-bitcoin-68bafeb4546f) by Zubair Zia of Decred
+
+[Decred's hybrid protocol as a superior detergent to majority attacks](https://medium.com/decred/decreds-hybrid-protocol-a-superior-deterrent-to-majority-attacks-9421bf486292) by Zubair Zia of Decred 
+
+[The role of Decred voters in defending against majority attacks](https://medium.com/@richardred/the-role-of-decred-voters-in-defending-against-majority-attacks-ec658af0a8fd) by Richard Red of Decred
+
+[How Decred fork resistance works](https://medium.com/decred/detailed-analysis-of-decred-fork-resistance-93022e0bcde7) by Haon of Decred
+  
+**_Adaptability_**
+
+[How consensus rule voting works](https://docs.decred.org/governance/consensus-rule-voting/overview/) 
+
+**_Self-Funding_**
+
+[How Decred revolutionizes funding in crypto](https://evolvement.io/how-decred-revolutionizes-funding-in-crypto-with-marco-peereboom/) with Marco Peereboom on the Evolvement podcast
+
+[A comparison of funding models for various blockchain projects](https://medium.com/@richardred/decentralized-autonomous-funding-of-blockchain-projects-3c0c233ae4ad) by Richard Red of Decred
+
+**_Staking_** _(Link to staking section)_
+
+**_Ticketing_** _(Link to ticketing section)_
+
+**_Politeia_** _(Link to Politeia section)_
    
-5. Politeia
-   - Overview
-      - https://docs.decred.org/governance/politeia/overview/
-      - https://blog.decred.org/2017/10/25/Politeia/
-      - https://medium.com/decred/governance-of-the-decred-project-subsidy-through-politeia-e6393b2bab1f
-      - https://medium.com/decred/an-overview-of-decreds-politeia-system-architecture-8741c13b35d8
-      - https://blog.decred.org/2018/10/15/Politeia-in-Production/
-      - https://medium.com/decred/on-the-launch-of-decreds-politeia-b305d06d8bda
-   - Noteworthy Politeia Proposals
-      - https://proposals.decred.org/proposals/5431da8ff4eda8cdbf8f4f2e08566ffa573464b97ef6d6bae78e749f27800d3a
-      - https://proposals.decred.org/proposals/d33a2667469b56942adf42453def6cc2292325251e4cf791e806939ea9efc9e1
-      - https://proposals.decred.org/proposals/27f87171d98b7923a1bd2bee6affed929fa2d2a6e178b5c80a9971a92a5c7f50
-      - https://proposals.decred.org/proposals/fa38a3593d9a3f6cb2478a24c25114f5097c572f6dadf24c78bb521ed10992a4
-      - https://proposals.decred.org/proposals/5d9cfb07aefb338ba1b74f97de16ee651beabc851c7f2b5f790bd88aea23b3cb
-      - https://proposals.decred.org/proposals/c96290a2478d0a1916284438ea2c59a1215fe768a87648d04d45f6b7ecb82c3f
+**5. Politeia**
 
-6. Staking _(Link to staking section)_
-   - Overview
-     - https://staking.com/decred/
-     - https://thedecreddigest.com/2017/12/11/the-top-5-reasons-to-become-a-decred-stakeholder/
-     - https://www.coindesk.com/staking-isnt-just-a-way-to-earn-crypto-money-and-it-shouldnt-be
-     - https://blog.decred.org/2017/04/03/A-New-Ticket-Price-Algorithm/
-   - How to Stake 
-     - https://youtu.be/8K7A_j5_VIU
-     - https://medium.com/@dcrthegreat/how-to-stake-dcr-decred-e6c43e052fde
-   - Ticket Splitting
-     - https://medium.com/decred/dcr-ticket-splitting-all-you-need-to-know-b8edc6b65db3
-     - https://www.youtube.com/watch?v=XsVJ1WWsWlA
-     - https://www.youtube.com/watch?v=9L8P7hL5v6w
-     - https://docs.decred.org/proof-of-stake/ticket-splitting/
+**_Overview_**
 
-7. Funding, Contractor Model, and the Decred DAO
-   - Decred Treasury
-     - https://www.coindesk.com/decred-is-turning-its-entire-21-million-crypto-treasury-over-to-investors
-     - https://dcrdata.decred.org/address/Dcur2mcGjmENx4DhNqDctW5wJCVyT3Qeqkx
-   - How Decred’s Contractor Model Works
-     - https://medium.com/@richardred/working-for-the-decred-dae-a9cfb17686fa
-     - https://docs.decred.org/contributing/contributing-to-decred/
-     - https://docs.decred.org/contributing/contributor-compensation/
-   - How to Become a Contractor
-     - https://medium.com/decred/how-to-get-hired-as-a-decred-contractor-e1435842df10
-     - https://youtu.be/A-zcLGSYxbA
-   - What the Decred DAO Means
-     - https://docs.decred.org/governance/decred-constitution/
-     - https://thedecreddigest.com/2017/08/11/the-road-to-the-decred-dao-a-self-funding-cryptocurrency/
-     - https://medium.com/@changhugo/decred-as-a-dae-infrastructure-provider-970677f38179
+[Politeia in production: The why and how behind off-chain governance](https://blog.decred.org/2018/10/15/Politeia-in-Production/) by Jake yocom-Piatt
+
+[Introduction to Politeia: What it is and how it works](https://medium.com/decred/on-the-launch-of-decreds-politeia-b305d06d8bda) by Richard Red of Decred 
+
+[High-level overview of Politeia](https://docs.decred.org/governance/politeia/overview/)
+
+[The motivation behind Politeia](https://blog.decred.org/2017/10/25/Politeia/) by Jake Yocom-Piatt
+
+[How the Decred treasury is governed via Politeia](https://medium.com/decred/governance-of-the-decred-project-subsidy-through-politeia-e6393b2bab1f) by Richard Red of Decred
+    
+**_Noteworthy Politeia Proposals__*
+
+[Proposal to create the Decred DEX](https://proposals.decred.org/proposals/5431da8ff4eda8cdbf8f4f2e08566ffa573464b97ef6d6bae78e749f27800d3a)
+
+[Proposal to create a bug bounty program for finding security vulnerabilities in Decred](https://proposals.decred.org/proposals/d33a2667469b56942adf42453def6cc2292325251e4cf791e806939ea9efc9e1)
+
+[Proposal to hire a PR firm for Decred](https://proposals.decred.org/proposals/27f87171d98b7923a1bd2bee6affed929fa2d2a6e178b5c80a9971a92a5c7f50)
+
+[Proposal for a Decred contractor clearance process](https://proposals.decred.org/proposals/fa38a3593d9a3f6cb2478a24c25114f5097c572f6dadf24c78bb521ed10992a4)
+
+[Proposal for open source research](https://proposals.decred.org/proposals/5d9cfb07aefb338ba1b74f97de16ee651beabc851c7f2b5f790bd88aea23b3cb)
+
+[Proposal to decentralize treasury spending](c96290a2478d0a1916284438ea2c59a1215fe768a87648d04d45f6b7ecb82c3f)
+
+**6. Staking** _(Link to staking section)_
+
+**_Overview_**
+
+[Everything you need to know about staking DCR](https://staking.com/decred/)
+
+[The top 5 reasons to become a DCR stakeholder](https://thedecreddigest.com/2017/12/11/the-top-5-reasons-to-become-a-decred-stakeholder/)
+
+[Staking isn't just a way to earn crypto — and it shouldn't be](https://www.coindesk.com/staking-isnt-just-a-way-to-earn-crypto-money-and-it-shouldnt-be) by Jake Yocom-Piatt in CoinDesk
+   
+**_How to Stake_**
+
+[10-minute video on how to stake DCR](https://www.youtube.com/watch?v=8K7A_j5_VIU&feature=youtu.be) with Denys Zayets at the Texas Bitcoin Conference
+
+[How to stake DCR](https://medium.com/@dcrthegreat/how-to-stake-dcr-decred-e6c43e052fde)
+ 
+**_Ticket Splitting_**
+
+[Overview of ticket splitting](https://docs.decred.org/proof-of-stake/ticket-splitting/)
+
+[Everything you need to know about ticket splitting](https://medium.com/decred/dcr-ticket-splitting-all-you-need-to-know-b8edc6b65db3) by David of Decred
+
+[Video tutorial on setting up ticket splitting](https://www.youtube.com/watch?v=9L8P7hL5v6w)
+
+
+**7. Funding, Contractor Model, and the Decred DAO**
+
+**_Decred Treasury_**
+ 
+[How Decred is turning its entire treasury over to stakeholders](https://www.coindesk.com/decred-is-turning-its-entire-21-million-crypto-treasury-over-to-investors) in CoinDesk
+
+[Decred Treasury real-time dashboard](https://dcrdata.decred.org/address/Dcur2mcGjmENx4DhNqDctW5wJCVyT3Qeqkx)
+ 
+ **_How Decred’s Contractor Model Works_**
+ 
+[What it's like to work for Decred](https://medium.com/@richardred/working-for-the-decred-dae-a9cfb17686fa) by Richard Red of Decred
+ 
+[Contributing to Decred](https://docs.decred.org/contributing/contributing-to-decred/)
+
+[How Decred contributors are paid](https://docs.decred.org/contributing/contributor-compensation/)
      
-8. Decred Tutorials & How-Tos 
-   - How to Send and Receive Decred
-     - working on this
-   - How to Mine
-     - https://docs.decred.org/mining/proof-of-work/pool-mining/gominer/
-     - https://howtomine.com/decred/
-     - https://www.youtube.com/watch?v=Mr6_b2DBOhE
-   - How to Set Up a Wallet
-     - working on this
-     - https://stakey.club/en/decrediton-setup/
-     - https://stakey.club/en/deleting-the-wallet/
-   - How to Use Politeia
-     - https://medium.com/@decreddragon/writing-proposals-on-politeia-pi-e345621652a2
-     - https://www.youtube.com/watch?v=6oQYmLx0eTg
-   - How to Use the Block Explorer
-     - https://www.youtube.com/watch?v=5BiW-qHJOmo
+**_How to Become a Contractor_**
+
+[How to get hired as a Decred contractor](https://medium.com/decred/how-to-get-hired-as-a-decred-contractor-e1435842df10) by Haon of Decred
+
+[Working for the Decred DAO: A case study and tips & tricks](https://youtu.be/A-zcLGSYxbA) with Jamie Holdstock on the Decred in Depth podcast
+   
+**_What the Decred DAO Means_**
+
+[The Decred Constitution](https://docs.decred.org/governance/decred-constitution/)
+
+[The road to the Decred DAO: A self-funding cryptocurrency](https://thedecreddigest.com/2017/08/11/the-road-to-the-decred-dao-a-self-funding-cryptocurrency/)
+
+[On Decred's path to becoming a DAO](https://medium.com/@changhugo/decred-as-a-dae-infrastructure-provider-970677f38179) by DZ of Decred
      
-9. Other Resources 
-   - Network Statistics [Interface example](https://d.pr/i/JK7ojb)
-     - I'd like to finish a web based interface that has all historical data. Thoughts?
-     - https://dcrstats.com
-     - http://stats.decredbrasil.com
-   - Block Explorers
-     - https://mainnet.decred.org
-     - https://explorer.dcrdata.org/
-   - Mining
-     - https://docs.decred.org/mining/overview/
+**8. Decred Tutorials & How-Tos** 
+
+**_How to Send and Receive Decred_**
+
+BLANK
+
+**_How to Mine_**
+
+[Pool mining user guide](https://docs.decred.org/mining/proof-of-work/pool-mining/gominer/)
+
+[Step-by-step guide on how to mine Decred](https://howtomine.com/decred/)
+
+[Video tutorial on how to mine Decred](https://www.youtube.com/watch?v=Mr6_b2DBOhE)
+   
+**_How to Set Up a Wallet_**
+
+[How to set up a Decred wallet (aka Decrediton)](https://stakey.club/en/decrediton-setup/)
+
+[How to delete a Decred wallet](https://stakey.club/en/deleting-the-wallet/)
+  
+**_How to Use Politeia_**
+
+[How to write a proposal in Politeia](https://medium.com/@decreddragon/writing-proposals-on-politeia-pi-e345621652a2)
+
+**_How to Use the Block Explorer_**
+
+[Video tutorial on how to use the Decred Block Explorer](https://www.youtube.com/watch?v=5BiW-qHJOmo)
+     
+**9. Other Resources**
+
+**_Network Statistics_**
+
+[Decred statistics (dcrstats)](https://dcrstats.com)
+
+**_Block Explorers_**
+
+[Decred Block Explorer](https://mainnet.decred.org)
+
+[DCRData](https://explorer.dcrdata.org/)
+
+**_Mining_**
+
+[How proof-of-work mining works](https://docs.decred.org/mining/overview/)

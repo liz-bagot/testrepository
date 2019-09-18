@@ -18,7 +18,7 @@ Decred is a highly complex digital currency that requires some studying before i
 
 (*The macro topics in bold below will all be displayed on the same webpage as the text above, with a short descriptor underneath each macro topic. When readers click on the title of the macro topic, they will be taken to another page, which will contain all the sub-topics in bold italics below and the hyperlinks underneath each respective sub-topic*)
 
-**Beginner’s Guide to Decred: The Basics**
+**1. Beginner’s Guide to Decred: The Basics**
 
 Learn about the fundamentals: What is Decred? How does it work? Why does it matter?
 
@@ -36,7 +36,7 @@ Vision: Decred’s vision is to build a self-directed, decentralized future rule
 
 **_History of Decred: Foundational Documents_**
      - [Decred Constitution](https://docs.decred.org/governance/decred-constitution/)
-     - https://thedecreddigest.com/2017/06/10/decred-where-did-it-all-begin/
+     - [Decred: Where Did It All Begin?] (https://thedecreddigest.com/2017/06/10/decred-where-did-it-all-begin/)
      - https://blog.companyzero.com/2015/12/iterating-bitcoin/
      - https://blog.companyzero.com/2015/11/bitcoins-biggest-challenges/
      - https://blog.companyzero.com/2015/12/decred-rethink-digital-currency/

@@ -50,12 +50,16 @@ Vision: Decred’s vision is to build a self-directed, decentralized future rule
 
 [Bitcointalk Forum: Decred introduces itself to the world](https://bitcointalk.org/index.php?topic=1290358)
 
-   - Must-Reads 
-     - https://medium.com/@linda.xie/a-beginners-guide-to-decred-2fc61670d67c
-     - https://decred.org/brief/
-     - https://www.placeholder.vc/blog/2018/5/12/decred-investment-thesis
-     - https://medium.com/@maxbronstein/decred-governnce-an-iterative-approach-2a89b9751f5e
-     - https://www.coinspeaker.com/decred-releases-v1-0-worlds-first-cryptocurrency-people-people-people/
+**_Must-Reads_**
+
+[A beginner's guide to Decred](https://medium.com/@linda.xie/a-beginners-guide-to-decred-2fc61670d67c) by Linda Xie of Scalar Capital
+
+[A quick introduction to how Decred works](https://decred.org/brief/)
+
+[Decred investment thesis](https://www.placeholder.vc/blog/2018/5/12/decred-investment-thesis) by Joel Monegro and Chris Burniske of Placeholder vc
+
+[Decred governance: An iterative approach](https://maxbronstein.com/decred-governance/) by Max Bronstein of Dharma
+
    - Must-Listens
      - https://unchainedpodcast.com/after-years-of-secret-work-decred-adds-a-new-feature-privacy/
      - https://soundcloud.com/decredindepth/ep-1-jonathan-zeppettini-jz-dcr-101

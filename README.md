@@ -46,7 +46,7 @@ Vision: Decred’s vision is to build a self-directed, decentralized future rule
 
 [Decred: Rethink Digital Currency](https://blog.companyzero.com/2015/12/decred-rethink-digital-currency/) by Jake Yocom-Piatt
 
-[Memcoin2: A Hybrid Proof-of-Work, Proof-of-Stake Cryptocurrency](https://decred.org/research/mackenzie2013.pdf)
+[Memcoin2: A Hybrid Proof-of-Work, Proof-of-Stake Cryptocurrency](https://decred.org/research/mackenzie2013.pdf) by Adam Mackenzie
 
 [Bitcointalk Forum: Decred Introduces Itself to the World](https://bitcointalk.org/index.php?topic=1290358)
 

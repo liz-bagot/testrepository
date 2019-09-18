@@ -52,19 +52,24 @@ Vision: Decred’s vision is to build a self-directed, decentralized future rule
 
 **_Must-Reads_**
 
-[A beginner's guide to Decred](https://medium.com/@linda.xie/a-beginners-guide-to-decred-2fc61670d67c) by Linda Xie of Scalar Capital
-
-[A quick introduction to how Decred works](https://decred.org/brief/)
-
 [Decred investment thesis](https://www.placeholder.vc/blog/2018/5/12/decred-investment-thesis) by Joel Monegro and Chris Burniske of Placeholder vc
 
 [Decred governance: An iterative approach](https://maxbronstein.com/decred-governance/) by Max Bronstein of Dharma
 
-   - Must-Listens
-     - https://unchainedpodcast.com/after-years-of-secret-work-decred-adds-a-new-feature-privacy/
-     - https://soundcloud.com/decredindepth/ep-1-jonathan-zeppettini-jz-dcr-101
-     - https://soundcloud.com/decredindepth/murad-mahmudov-dcr-investment-thesis-sov-narrative-crypto-economics
-     - https://soundcloud.com/epicenterbitcoin/eb-193
+[A beginner's guide to Decred](https://medium.com/@linda.xie/a-beginners-guide-to-decred-2fc61670d67c) by Linda Xie of Scalar Capital
+
+[A quick introduction to how Decred works](https://decred.org/brief/)
+
+**_Must-Listens_**
+
+[Introduction to Decred and its privacy implementation](https://unchainedpodcast.com/after-years-of-secret-work-decred-adds-a-new-feature-privacy/) on Laura Shin's Unchained podcast 
+
+[Overview of Decred](https://soundcloud.com/decredindepth/ep-1-jonathan-zeppettini-jz-dcr-101) with Jonathan Zeppettini on the Decred in Depth podcast
+
+[Cryptoeconomics and Decred as a store of value](https://soundcloud.com/decredindepth/murad-mahmudov-dcr-investment-thesis-sov-narrative-crypto-economics) with economist Murad Mahmudov on the Decred in Depth podcast 
+
+[Decred's hybrid approach to blockchain governance](https://soundcloud.com/epicenterbitcoin/eb-193) with Dave Collins and Jake Yocom-Piatt on the Epicenter podcast 
+
    - Must-Watches 
      - https://www.youtube.com/watch?v=GAMp5V_gG1E
      - https://www.youtube.com/watch?v=qHPs6XdP4gQ

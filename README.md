@@ -153,6 +153,7 @@ Please add what you consider to the the BEST links to online resources that corr
 7. Funding, Contractor Model, and the Decred DAO
    - Decred Treasury
      - https://www.coindesk.com/decred-is-turning-its-entire-21-million-crypto-treasury-over-to-investors
+     - https://dcrdata.decred.org/address/Dcur2mcGjmENx4DhNqDctW5wJCVyT3Qeqkx
    - How Decred’s Contractor Model Works
      - https://medium.com/@richardred/working-for-the-decred-dae-a9cfb17686fa
      - https://docs.decred.org/contributing/contributing-to-decred/

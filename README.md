@@ -142,24 +142,31 @@ Vision: Decred’s vision is to build a self-directed, decentralized future rule
 
 **_Scaling Solution (Lightning Network)_**
 
-     - https://matheusd.com/post/announcing-dcrlnd/
-     - https://docs.decred.org/wallets/lightning/
-     - https://blog.decred.org/2017/05/23/Lightning-Network-in-Practice/
-     - https://decredcommunity.org/videos/decred-assembly-ep4-the-lightning-network-w/-guest-laolu-roasbeef-osuntokun
-     - https://decredcommunity.org/videos/decred-assembly-ep13-on-chain-atomic-swaps-lightning-network-w/-dave-collins-and-charlie-lee
+[Brief overview of Decred's Lightning Network implementation](https://docs.decred.org/wallets/lightning/)
+
+[How Decred's Lightning Network implementation will work](https://blog.decred.org/2017/05/23/Lightning-Network-in-Practice/) by Jake Yocom-Piatt
+
+[Lightning Network discussion with Lightning Labs CTO Laolu Osuntokun](https://decredcommunity.org/videos/decred-assembly-ep4-the-lightning-network-w/-guest-laolu-roasbeef-osuntokun) on Decred Assembly
+
+[On-chain atomic swaps and Lightning Network discussion with Charlie Lee and Dave Collins](https://decredcommunity.org/videos/decred-assembly-ep13-on-chain-atomic-swaps-lightning-network-w/-dave-collins-and-charlie-lee) on Decred Assembly
      
-3. Why Own Decred?
-   - Decred Ownership Thesis 
-      - https://www.placeholder.vc/blog/2018/5/12/decred-investment-thesis
-      - https://www.blockheadcap.com/post/decred-investment-thesis
-      - https://medium.com/@BlueYard/decred-82b284b4a795
-      - https://medium.com/coinmonks/decred-an-investment-thesis-bf9ba3cd1042
-      - https://www.smithandcrown.com/wp-content/uploads/2019/03/SmithandCrown-Decred-Deep-Dive-Report.pdf
-      - https://medium.com/@wallyhansen/decred-an-investment-thesis-bf9ba3cd1042 
-   - What Investors Are Saying About Decred 
-     -  https://soundcloud.com/decredindepth/murad-mahmudov-dcr-investment-thesis-sov-narrative-crypto-economics
-     - https://static1.squarespace.com/static/5a479ee3b7411c6102f75729/t/5beb31eb6d2a73d37e82093b/1542140423818/Decred+Analysis+-+Alex+Evans.pdf
-     - https://decredindepth.libsyn.com/-joel-monegro-placeholder-capital-dcr-investment-thesis-0
+**3. Why Own Decred?**
+
+**_Decred Ownership Thesis_**
+
+[Decred investment thesis](https://www.placeholder.vc/blog/2018/5/12/decred-investment-thesis) by Joel Monegro and Chris Burniske of Placeholder vc
+
+[Decred investment thesis](https://www.blockheadcap.com/post/decred-investment-thesis) by Blockhead Capital
+
+[Decred investment thesis](https://medium.com/@BlueYard/decred-82b284b4a795) by BlueYard Capital
+
+[Long-read Decred investment thesis](https://medium.com/coinmonks/decred-an-investment-thesis-bf9ba3cd1042) by Wally Hansen of SVB Capital 
+
+**_What Investors Are Saying About Decred_**
+
+[Murad Mahmudov of Adaptive Capital on Decred as a store of value](https://soundcloud.com/decredindepth/murad-mahmudov-dcr-investment-thesis-sov-narrative-crypto-economics) on the Decred in Depth podcast 
+
+[Joel Monegro of Placeholder vc on the Decred investment thesis](https://decredindepth.libsyn.com/-joel-monegro-placeholder-capital-dcr-investment-thesis-0) on the Decred in Depth podcast
    
 4. Governance: Hybrid PoW/PoS 
    - Introduction to Decred Governance

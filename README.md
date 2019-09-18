@@ -27,20 +27,15 @@ Please add what you consider to the the BEST links to online resources that corr
      - https://www.placeholder.vc/blog/2018/5/12/decred-investment-thesis
      - https://medium.com/@maxbronstein/decred-governnce-an-iterative-approach-2a89b9751f5e
      - https://www.coinspeaker.com/decred-releases-v1-0-worlds-first-cryptocurrency-people-people-people/
-   - Must-Listens _(Links to include: Podcasts (e.g. Pomp, Chain Reaction, etc.)_
+   - Must-Listens _(Links to include: Podcasts)_
+     - https://soundcloud.com/decredindepth/ep-1-jonathan-zeppettini-jz-dcr-101
      - https://soundcloud.com/decredindepth/murad-mahmudov-dcr-investment-thesis-sov-narrative-crypto-economics
-     - https://www.youtube.com/watch?v=rcEJuN7zh2M&feature=youtu.be
-     - https://www.youtube.com/watch?v=tgPc1ZgtR4c
-     - <https://www.cryptobasicpodcast.com/home/180>
-   - Must-Watches _(Links to include: Videos (e.g. Decred Assembly, BlockTV, other explainers)_
-     - https://youtu.be/qT9oBsbzUos
-     - https://blog.decred.org/2016/11/16/Upgrading-Consensus/
+     - https://soundcloud.com/epicenterbitcoin/eb-193
+   - Must-Watches _(Links to include: Videos)_
+     - https://www.youtube.com/watch?v=GAMp5V_gG1E
+     - https://www.youtube.com/watch?v=qHPs6XdP4gQ
+     - https://www.youtube.com/watch?v=qT9oBsbzUos
      - https://events.technologyreview.com/video/watch/jake-yocom-piatt-decred-blockchain-sovereignty/
-     - https://www.youtube.com/watch?v=E5mXtGvwelU
-     - https://www.youtube.com/watch?v=TDXu5Z20Bgk
-     - https://decredcommunity.org/videos/decred-assembly-ep1-intro-to-decred-w/-guest-dave-collins-(lead-dev-of-decred)
-     - https://decredcommunity.org/videos/decred-assembly-ep14-crypto-estate-planning-and-daos-w/-pamela-morgan
-     - https://decredcommunity.org/videos/decred-assembly-ep5-btcd,-uasf(bip148/bip149)-and-more-w/-guests-jimmy-song-and-dave-collins
    
 2. Go Deeper: Decred & Its Features
    - The Airdrop

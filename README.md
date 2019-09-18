@@ -104,32 +104,44 @@ Vision: Decred’s vision is to build a self-directed, decentralized future rule
 
 [On Decred's path to becoming a DAO](https://medium.com/@changhugo/decred-as-a-dae-infrastructure-provider-970677f38179) by DZ
 
-[How Decred is turning its treasury over to the community](https://breakermag.com/decred-is-letting-users-choose-how-to-spend-its-28-million-dev-budget/) by David Morris of BREAKERMAG
+[How Decred is turning its treasury over to the community](https://breakermag.com/decred-is-letting-users-choose-how-to-spend-its-28-million-dev-budget/) in BREAKERMAG
 
-[Why Decred is close to absolute decentralization](https://www.cryptonewsz.com/how-close-to-absolute-decentralization-is-decreds-unique-consensus-mechanism/8998/) by Trevor Holman of CryptoNewsZ
+[Why Decred is close to absolute decentralization](https://www.cryptonewsz.com/how-close-to-absolute-decentralization-is-decreds-unique-consensus-mechanism/8998/) in CryptoNewsZ
    
 **_Decred vs. Other Cryptocurrencies_**
 
-[Decred as "Bitcoin with governance"](https://cryptobriefing.com/decred-bitcoin-plus-autonomy/) by Andrew Macdonald of Crypto Briefing
+[Decred as "Bitcoin with governance"](https://cryptobriefing.com/decred-bitcoin-plus-autonomy/) in Crypto Briefing
 
 [Comparison of on-chain voting protocols for Decred and other coins](https://cointelegraph.com/news/governing-decentralization-how-on-chain-voting-protocols-operate-and-vary) in Cointelegraph
 
 **_Deep Dive Technical Resources_**
 
-     - 
-     - https://stakey.club/en/verifying-digital-signatures-decred/
-     - https://stakey.club/en/sharing-the-dcrd/
-     - https://stakey.club/en/digital-certificates-for-rpc-connections/
-   - Privacy
-     - https://blog.decred.org/2019/08/21/Surveying-the-Privacy-Landscape
-     - https://unchainedpodcast.com/after-years-of-secret-work-decred-adds-a-new-feature-privacy/ 
-     - https://modernconsensus.com/cryptocurrencies/alt-coins/decred-cryptocurrency-launches-launches-privacy-mixing-feature/
-     - https://blog.decred.org/2019/08/28/Iterating-Privacy/
-     - https://medium.com/decred/decred-privacy-taking-the-long-road-62d218223db6
-   - DEX 
-     - https://blog.decred.org/2018/06/05/A-New-Kind-of-DEX/
-     - https://github.com/decred/dcrdex
-   - Scaling Solution (Lightning Network)
+[The Decred structure](https://stakey.club/en/the-decred-structure/)
+
+[Verifying digital signatures in Decred](https://stakey.club/en/verifying-digital-signatures-decred/)
+
+[Sharing the dcrd](https://stakey.club/en/sharing-the-dcrd/)
+
+[Digital certificates for RPC connections](https://stakey.club/en/digital-certificates-for-rpc-connections/)
+   
+**_Privacy_**
+
+[Overview of the privacy landscape](https://blog.decred.org/2019/08/21/Surveying-the-Privacy-Landscape) by Jake Yocom-Piatt
+
+[A layman's explanation of Decred's privacy](https://medium.com/decred/decred-privacy-taking-the-long-road-62d218223db6) by Dustin Lefebvre of Decred
+
+[A more in-depth explanation of Decred's privacy](https://blog.decred.org/2019/08/28/Iterating-Privacy/) by Jake Yocom-Piatt
+
+[Announcement of Decred's privacy on Laura Shin's Unchained podcast](https://unchainedpodcast.com/after-years-of-secret-work-decred-adds-a-new-feature-privacy/)
+
+**_DEX_**
+
+[Introduction to the Decred DEX](https://blog.decred.org/2018/06/05/A-New-Kind-of-DEX/) by Jake Yocom-Piatt
+
+[No more trading or listing fees? Decred releases new DEX proposal](https://www.forbes.com/sites/leslieankney/2019/02/04/no-more-trading-or-listing-fees-decred-releases-new-dex-proposal/#12395b0c35d9) in Forbes
+
+**_Scaling Solution (Lightning Network)_**
+
      - https://matheusd.com/post/announcing-dcrlnd/
      - https://docs.decred.org/wallets/lightning/
      - https://blog.decred.org/2017/05/23/Lightning-Network-in-Practice/

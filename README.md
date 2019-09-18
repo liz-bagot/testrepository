@@ -29,6 +29,7 @@ Please add what you consider to the the BEST links to online resources that corr
      - https://medium.com/@maxbronstein/decred-governnce-an-iterative-approach-2a89b9751f5e
      - https://www.coinspeaker.com/decred-releases-v1-0-worlds-first-cryptocurrency-people-people-people/
    - Must-Listens
+     - https://unchainedpodcast.com/after-years-of-secret-work-decred-adds-a-new-feature-privacy/
      - https://soundcloud.com/decredindepth/ep-1-jonathan-zeppettini-jz-dcr-101
      - https://soundcloud.com/decredindepth/murad-mahmudov-dcr-investment-thesis-sov-narrative-crypto-economics
      - https://soundcloud.com/epicenterbitcoin/eb-193
@@ -36,6 +37,7 @@ Please add what you consider to the the BEST links to online resources that corr
      - https://www.youtube.com/watch?v=GAMp5V_gG1E
      - https://www.youtube.com/watch?v=qHPs6XdP4gQ
      - https://www.youtube.com/watch?v=qT9oBsbzUos
+     - https://blocktv.com/watch/2019-02-20/5c6d6a2be03e3-chain-breakers-promoting-constant-disruption-
      - https://events.technologyreview.com/video/watch/jake-yocom-piatt-decred-blockchain-sovereignty/
 2. Go Deeper: Decred & Its Features
    - The Airdrop

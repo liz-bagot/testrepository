@@ -78,7 +78,7 @@ Vision: Decred’s vision is to build a self-directed, decentralized future rule
 
 [How Decred governance works](https://www.youtube.com/watch?v=qT9oBsbzUos)
 
-[Jake Yocom-Piatt discusses Decred's history and vision on BlockTV](https://blocktv.com/watch/2019-02-20/5c6d6a2be03e3-chain-breakers-promoting-constant-disruption-)
+[Decred's history, mission, and vision](https://blocktv.com/watch/2019-02-20/5c6d6a2be03e3-chain-breakers-promoting-constant-disruption-) with Jake Yocom-Piatt on BlockTV 
 
 
 

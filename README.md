@@ -16,7 +16,7 @@ Please add what you consider to the the BEST links to online resources that corr
 
 Decred is a highly complex digital currency that requires some studying before it can be fully understood. Below is a carefully curated selection of the best readings, podcasts, video recordings, and other materials to both help newcomers quickly understand Decred and give those familiar with Decred a refresher on the fundamentals.  
 
-(*The macro topics in bold below will all be displayed on the same webpage as the text above, with a short descriptor underneath each macro topic. When readers click on the title of the macro topic, they will be taken to another page, which will contain all the sub-topics and the hyperlinks underneath each respective sub-topic*)
+(*The macro topics in bold below will all be displayed on the same webpage as the text above, with a short descriptor underneath each macro topic. When readers click on the title of the macro topic, they will be taken to another page, which will contain all the sub-topics in bold italics below and the hyperlinks underneath each respective sub-topic*)
 
 **Beginner’s Guide to Decred: The Basics**
 
@@ -34,7 +34,7 @@ Mission: Decred aims to become the world’s first truly decentralized autonomou
 
 Vision: Decred’s vision is to build a self-directed, decentralized future ruled by the collective intelligence of the community. It will be built upon the pillars of sovereignty, fairness, transparency, inclusivity, privacy, and security. Everyone can vote on the rules and project-level decision making proportionately to their stake, yielding decisions and policies in the best interest of all — not just a select few. 
 
-   - History of Decred: Foundational Documents
+**_History of Decred: Foundational Documents_**
      - [Decred Constitution](https://docs.decred.org/governance/decred-constitution/)
      - https://thedecreddigest.com/2017/06/10/decred-where-did-it-all-begin/
      - https://blog.companyzero.com/2015/12/iterating-bitcoin/

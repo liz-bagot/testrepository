@@ -100,17 +100,23 @@ Vision: Decred’s vision is to build a self-directed, decentralized future rule
 
 **_Decred as a DAO_**
 
-[Introduction to Politeia: What it is and how it works](https://medium.com/decred/on-the-launch-of-decreds-politeia-b305d06d8bda) by Richard Red 
+[Introduction to Politeia: What it is and how it works](https://medium.com/decred/on-the-launch-of-decreds-politeia-b305d06d8bda) by Richard Red of Decred 
 
 [On Decred's path to becoming a DAO](https://medium.com/@changhugo/decred-as-a-dae-infrastructure-provider-970677f38179) by DZ
+
+[How Decred is turning its treasury over to the community](https://breakermag.com/decred-is-letting-users-choose-how-to-spend-its-28-million-dev-budget/) by David Morris of BREAKERMAG
+
+[Why Decred is close to absolute decentralization](https://www.cryptonewsz.com/how-close-to-absolute-decentralization-is-decreds-unique-consensus-mechanism/8998/) by Trevor Holman of CryptoNewsZ
+   
+**_Decred vs. Other Cryptocurrencies_**
+
+[Decred as "Bitcoin with governance"](https://cryptobriefing.com/decred-bitcoin-plus-autonomy/) by Andrew Macdonald of Crypto Briefing
+
+[Comparison of on-chain voting protocols for Decred and other coins](https://cointelegraph.com/news/governing-decentralization-how-on-chain-voting-protocols-operate-and-vary) in Cointelegraph
+
+**_Deep Dive Technical Resources_**
+
      - 
-     - https://breakermag.com/decred-is-letting-users-choose-how-to-spend-its-28-million-dev-budget/
-     - https://www.cryptonewsz.com/how-close-to-absolute-decentralization-is-decreds-unique-consensus-mechanism/8998/
-   - Decred vs. Other Cryptocurrencies
-     - https://cryptobriefing.com/decred-bitcoin-plus-autonomy/
-     - https://cointelegraph.com/news/governing-decentralization-how-on-chain-voting-protocols-operate-and-vary
-   - Deep Dive Technical Resources
-     - https://stakey.club/en/the-decred-structure/
      - https://stakey.club/en/verifying-digital-signatures-decred/
      - https://stakey.club/en/sharing-the-dcrd/
      - https://stakey.club/en/digital-certificates-for-rpc-connections/

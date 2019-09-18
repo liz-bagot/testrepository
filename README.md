@@ -9,9 +9,26 @@ Below, each macro topic is denoted by a number. When visitors click on it, it wi
 
 Please add what you consider to the the BEST links to online resources that correspond to the topics below, using the standard [text formatting to add hyperlniks] (https://help.github.com/en/articles/basic-writing-and-formatting-syntax#links). E.g., any links about Decred's history should go under "History of Decred: Foundational Documents", while links about how Decred's consensus mechanism works go under "How Hybrid PoW/PoS" works. Let's limit ourselves to only the best resources — we don't want an exhaustive list, but a highly curated list.
 
+---
+
+Decred Information & Educational Resources
+
+Decred is a highly complex digital currency that requires some studying before it can be fully understood. Below is a carefully curated selection of the best readings, podcasts, video recordings, and other materials to both help newcomers quickly understand Decred and give those familiar with Decred a refresher on the fundamentals.  
 
 1. Beginner’s Guide to Decred: The Basics 
-   - Mission & Vision (text) 
+
+Learn about the fundamentals: What is Decred? How does it work? Why does it matter?
+
+   - Mission & Vision 
+ 
+Learn about Decred's mission, vision, and values. 
+
+Decred is a community-directed digital currency with built-in governance to make it a superior long-term store of value. Decred is designed to deliver a truly decentralized, fair, and sovereign alternative to traditional money. In the current system, a centralized authority such as a bank or government holds the power. With Decred, the community members own and operate the system, make the rules, and determine the direction of the project. The result is a secure and adaptable currency that is a superior store of value. Everyone is invested and actively involved in helping Decred succeed.  
+
+Mission: Decred aims to become the world’s first truly decentralized autonomous organization. It is achieving this aim by building a self-directed digital currency whose security, adaptability, and sustainability make it a superior long-term store of value. 
+
+Vision: Decred’s vision is to build a self-directed, decentralized future ruled by the collective intelligence of the community. It will be built upon the pillars of sovereignty, fairness, transparency, inclusivity, privacy, and security. Everyone can vote on the rules and project-level decision making proportionately to their stake, yielding decisions and policies in the best interest of all — not just a select few. 
+
    - History of Decred: Foundational Documents
      - [Decred Constitution](https://docs.decred.org/governance/decred-constitution/)
      - https://thedecreddigest.com/2017/06/10/decred-where-did-it-all-begin/
@@ -175,6 +192,7 @@ Please add what you consider to the the BEST links to online resources that corr
      - https://stakey.club/en/decrediton-setup/
      - https://stakey.club/en/deleting-the-wallet/
    - How to Use Politeia
+     - https://medium.com/@decreddragon/writing-proposals-on-politeia-pi-e345621652a2
      - https://www.youtube.com/watch?v=6oQYmLx0eTg
    - How to Use the Block Explorer
      - https://www.youtube.com/watch?v=5BiW-qHJOmo

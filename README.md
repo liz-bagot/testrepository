@@ -104,6 +104,7 @@ Please add what you consider to the the BEST links to online resources that corr
       - https://medium.com/decred/blockchain-governance-how-decred-iterates-upon-bitcoin-3cc7030c655e
    - How Hybrid PoW/PoS Works
      - https://www.binance.vision/blockchain/hybrid-pow-pos-consensus-explained
+     - https://docs.decred.org/proof-of-stake/overview/
    - Why Hybrid PoW/PoS?
      - https://blog.decred.org/2016/11/16/Upgrading-Consensus/
      - https://medium.com/@richardred/what-is-on-chain-cryptocurrency-governance-is-it-plutocratic-bfb407ef6f1
@@ -115,14 +116,18 @@ Please add what you consider to the the BEST links to online resources that corr
       - https://medium.com/@richardred/the-role-of-decred-voters-in-defending-against-majority-attacks-ec658af0a8fd
       - https://www.youtube.com/watch?v=IYb4ongo7ls
    - Adaptability
+      - https://docs.decred.org/governance/consensus-rule-voting/overview/  
    - Self-Funding
      - https://evolvement.io/how-decred-revolutionizes-funding-in-crypto-with-marco-peereboom-transcript/
+     - https://medium.com/@richardred/decentralized-autonomous-funding-of-blockchain-projects-3c0c233ae4ad
+     - https://docs.decred.org/contributing/overview/
    - Staking _(Link to staking section)_
 - Ticketing _(Link to ticketing section)_
-   - Politeia _(Link to Politeia section)_
+   - Politeia _(Link to Politeia section)_ 
    
 5. Politeia
    - Overview
+      - https://docs.decred.org/governance/politeia/overview/
       - https://blog.decred.org/2017/10/25/Politeia/
       - https://medium.com/decred/governance-of-the-decred-project-subsidy-through-politeia-e6393b2bab1f
       - https://medium.com/decred/an-overview-of-decreds-politeia-system-architecture-8741c13b35d8

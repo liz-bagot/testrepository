@@ -10,15 +10,15 @@ Below, each macro topic is denoted by a number. When visitors click on it, it wi
 Please add what you consider to the the BEST links to online resources that correspond to the topics below, using the standard [text formatting to add hyperlniks] (https://help.github.com/en/articles/basic-writing-and-formatting-syntax#links). E.g., any links about Decred's history should go under "History of Decred: Foundational Documents", while links about how Decred's consensus mechanism works go under "How Hybrid PoW/PoS" works. Let's limit ourselves to only the best resources — we don't want an exhaustive list, but a highly curated list.
 
 ---
-*The text below will be placed at the top of the webpage and serve as an introduction to the educational resources repository.*
+(*The text below will be displayed at the top of the webpage and serve as an introduction to the educational resources repository.*)
 
 **Decred Information & Educational Resources**
 
 Decred is a highly complex digital currency that requires some studying before it can be fully understood. Below is a carefully curated selection of the best readings, podcasts, video recordings, and other materials to both help newcomers quickly understand Decred and give those familiar with Decred a refresher on the fundamentals.  
 
-*The macro topics in bold below will all be displayed on the same webpage as the text above, with a short descriptor underneath each macro topic. When readers click on the title of the macro topic, they will be taken to another page, which will contain all the sub-topics and the hyperlinks underneath each respective sub-topic*
+(*The macro topics in bold below will all be displayed on the same webpage as the text above, with a short descriptor underneath each macro topic. When readers click on the title of the macro topic, they will be taken to another page, which will contain all the sub-topics and the hyperlinks underneath each respective sub-topic*)
 
-**Beginner’s Guide to Decred: The Basics**
+**_Beginner’s Guide to Decred: The Basics_**
 
 Learn about the fundamentals: What is Decred? How does it work? Why does it matter?
 
@@ -26,7 +26,7 @@ _Mission & Vision_
  
 Learn about Decred's mission, vision, and values. 
 
-*When readers click on "Mission & Vision," they will be taken to another webpage containing the text below*
+(*When readers click on "Mission & Vision," they will be taken to another webpage containing the text below*)
 
 Decred is a community-directed digital currency with built-in governance to make it a superior long-term store of value. Decred is designed to deliver a truly decentralized, fair, and sovereign alternative to traditional money. In the current system, a centralized authority such as a bank or government holds the power. With Decred, the community members own and operate the system, make the rules, and determine the direction of the project. The result is a secure and adaptable currency that is a superior store of value. Everyone is invested and actively involved in helping Decred succeed.  
 

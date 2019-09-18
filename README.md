@@ -70,11 +70,18 @@ Vision: Decred’s vision is to build a self-directed, decentralized future rule
 
 [Decred's hybrid approach to blockchain governance](https://soundcloud.com/epicenterbitcoin/eb-193) with Dave Collins and Jake Yocom-Piatt on the Epicenter podcast 
 
-   - Must-Watches 
-     - https://www.youtube.com/watch?v=GAMp5V_gG1E
-     - https://www.youtube.com/watch?v=qHPs6XdP4gQ
-     - https://www.youtube.com/watch?v=qT9oBsbzUos
-     - https://blocktv.com/watch/2019-02-20/5c6d6a2be03e3-chain-breakers-promoting-constant-disruption-
+**_Must-Watches_**
+
+[Understand Decred in 2 minutes](https://www.youtube.com/watch?v=GAMp5V_gG1E)
+
+[How Decred is different from Bitcoin](https://www.youtube.com/watch?v=qHPs6XdP4gQ)
+
+[How Decred governance works](https://www.youtube.com/watch?v=qT9oBsbzUos)
+
+[Jake Yocom-Piatt discusses Decred's history and vision on BlockTV](https://blocktv.com/watch/2019-02-20/5c6d6a2be03e3-chain-breakers-promoting-constant-disruption-)
+
+
+
      - https://events.technologyreview.com/video/watch/jake-yocom-piatt-decred-blockchain-sovereignty/
      
 2. Go Deeper: Decred & Its Features

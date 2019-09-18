@@ -18,11 +18,11 @@ Decred is a highly complex digital currency that requires some studying before i
 
 (*The macro topics in bold below will all be displayed on the same webpage as the text above, with a short descriptor underneath each macro topic. When readers click on the title of the macro topic, they will be taken to another page, which will contain all the sub-topics and the hyperlinks underneath each respective sub-topic*)
 
-**_Beginner’s Guide to Decred: The Basics_**
+**Beginner’s Guide to Decred: The Basics**
 
 Learn about the fundamentals: What is Decred? How does it work? Why does it matter?
 
-_Mission & Vision_
+**_Mission & Vision_**
  
 Learn about Decred's mission, vision, and values. 
 

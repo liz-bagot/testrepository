@@ -82,7 +82,7 @@ Vision: Decred’s vision is to build a self-directed, decentralized future rule
 
 [Blockchain sovereignty and blockchain integration for businesses](https://events.technologyreview.com/video/watch/jake-yocom-piatt-decred-blockchain-sovereignty/) with Jake Yocom-Piatt at MIT 
      
-2. Go Deeper: Decred & Its Features
+**2. Go Deeper: Decred & Its Features**
 
 **_The Airdrop_**
 
@@ -99,8 +99,11 @@ Vision: Decred’s vision is to build a self-directed, decentralized future rule
 [An analysis of Bitcoin and Decred as store of value instruments](https://seekingalpha.com/article/4235521-fundamental-value-crypto-bitcoin-decred-store-value-investments) in Seeking Alpha
 
 **_Decred as a DAO_**
-     - https://medium.com/decred/on-the-launch-of-decreds-politeia-b305d06d8bda
-     - https://medium.com/@changhugo/decred-as-a-dae-infrastructure-provider-970677f38179
+
+[Introduction to Politeia: What it is and how it works](https://medium.com/decred/on-the-launch-of-decreds-politeia-b305d06d8bda) by Richard Red 
+
+[On Decred's path to becoming a DAO](https://medium.com/@changhugo/decred-as-a-dae-infrastructure-provider-970677f38179) by DZ
+     - 
      - https://breakermag.com/decred-is-letting-users-choose-how-to-spend-its-28-million-dev-budget/
      - https://www.cryptonewsz.com/how-close-to-absolute-decentralization-is-decreds-unique-consensus-mechanism/8998/
    - Decred vs. Other Cryptocurrencies

@@ -34,8 +34,7 @@ Mission: Decred aims to become the world’s first truly decentralized autonomou
 
 Vision: Decred’s vision is to build a self-directed, decentralized future ruled by the collective intelligence of the community. It will be built upon the pillars of sovereignty, fairness, transparency, inclusivity, privacy, and security. Everyone can vote on the rules and project-level decision making proportionately to their stake, yielding decisions and policies in the best interest of all — not just a select few. 
 
-**_History of Decred: Foundational Documents_**
-
+**_History of Decred: Foundational Documents_** 
      - [Decred Constitution](https://docs.decred.org/governance/decred-constitution/)
      - [Decred: Where Did It All Begin?](https://thedecreddigest.com/2017/06/10/decred-where-did-it-all-begin/)
      - https://blog.companyzero.com/2015/12/iterating-bitcoin/

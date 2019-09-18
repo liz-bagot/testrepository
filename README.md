@@ -12,16 +12,14 @@ Please add what you consider to the the BEST links to online resources that corr
 
 1. Beginner’s Guide to Decred: The Basics 
    - Mission & Vision (text) 
-     - https://stakey.club/en/the-origin-of-decred/
-     - https://www.investitin.com/decred-altcoin-review/
    - History of Decred: Foundational Documents
+     - [Decred Constitution](https://docs.decred.org/governance/decred-constitution/)
      - https://thedecreddigest.com/2017/06/10/decred-where-did-it-all-begin/
      - https://blog.companyzero.com/2015/12/iterating-bitcoin/
      - https://blog.companyzero.com/2015/11/bitcoins-biggest-challenges/
      - https://blog.companyzero.com/2015/12/decred-rethink-digital-currency/
      - https://decred.org/research/mackenzie2013.pdf
      - https://bitcointalk.org/index.php?topic=1290358.
-     - [Decred Constitution](https://docs.decred.org/governance/decred-constitution/)
    - Must-Reads 
      - https://medium.com/@linda.xie/a-beginners-guide-to-decred-2fc61670d67c
      - https://decred.org/brief/
@@ -39,63 +37,56 @@ Please add what you consider to the the BEST links to online resources that corr
      - https://www.youtube.com/watch?v=qT9oBsbzUos
      - https://blocktv.com/watch/2019-02-20/5c6d6a2be03e3-chain-breakers-promoting-constant-disruption-
      - https://events.technologyreview.com/video/watch/jake-yocom-piatt-decred-blockchain-sovereignty/
+     
 2. Go Deeper: Decred & Its Features
    - The Airdrop
      - https://forum.decred.org/threads/airdrop-rundown.313/
-   - Decred as a Store Value
+   - Decred as a Store of Value
+     - https://docs.decred.org/advanced/premine/
      - https://bravenewcoin.com/insights/decred-price-analysis-emergence-as-a-digital-store-of-value
+     - https://medium.com/@_Checkmatey_/monetary-premiums-can-altcoins-compete-with-bitcoin-54c97a92c6d4
      - https://seekingalpha.com/article/4235521-fundamental-value-crypto-bitcoin-decred-store-value-investments
-     - https://medium.com/@imagnusholdings/sov-and-the-four-turnings-c1ba7220b7ac
    - Decred as a DAO 
+     - https://medium.com/decred/on-the-launch-of-decreds-politeia-b305d06d8bda
      - https://medium.com/@changhugo/decred-as-a-dae-infrastructure-provider-970677f38179
      - https://breakermag.com/decred-is-letting-users-choose-how-to-spend-its-28-million-dev-budget/
      - https://www.cryptonewsz.com/how-close-to-absolute-decentralization-is-decreds-unique-consensus-mechanism/8998/
    - Decred vs. Other Cryptocurrencies
      - https://cryptobriefing.com/decred-bitcoin-plus-autonomy/
      - https://cointelegraph.com/news/governing-decentralization-how-on-chain-voting-protocols-operate-and-vary
-     - https://medium.com/@imagnusholdings/bitcoin-decred-historical-documents-of-a-digital-financial-revolution-4debfa0d10d9
    - Deep Dive Technical Resources
      - https://stakey.club/en/the-decred-structure/
      - https://stakey.club/en/verifying-digital-signatures-decred/
-     - https://stakey.club/en/decred-verifier/
      - https://stakey.club/en/sharing-the-dcrd/
      - https://stakey.club/en/digital-certificates-for-rpc-connections/
-     
-   - Privacy _(Links to include: Upcoming blogs (comparative, explanative)_
+   - Privacy
      - https://blog.decred.org/2019/08/21/Surveying-the-Privacy-Landscape
      - https://unchainedpodcast.com/after-years-of-secret-work-decred-adds-a-new-feature-privacy/ 
      - https://modernconsensus.com/cryptocurrencies/alt-coins/decred-cryptocurrency-launches-launches-privacy-mixing-feature/
      - https://blog.decred.org/2019/08/28/Iterating-Privacy/
-
-   - DEX _(Links to include: Stuff about Atomic Swaps)_
+     - https://medium.com/decred/decred-privacy-taking-the-long-road-62d218223db6
+   - DEX 
      - https://blog.decred.org/2018/06/05/A-New-Kind-of-DEX/
-     - https://thedecreddigest.com/2017/09/27/decred-cross-chain-atomic-swaps-eliminating-trust-from-trades/
      - https://github.com/decred/dcrdex
    - Scaling Solution (Lightning Network)
+     - https://matheusd.com/post/announcing-dcrlnd/
      - https://docs.decred.org/wallets/lightning/
      - https://blog.decred.org/2017/05/23/Lightning-Network-in-Practice/
-     - https://seekingalpha.com/instablog/22912651-daniel-jennings/5241781-decred-dcr-harnesses-lightning-network
      - https://decredcommunity.org/videos/decred-assembly-ep4-the-lightning-network-w/-guest-laolu-roasbeef-osuntokun
      - https://decredcommunity.org/videos/decred-assembly-ep13-on-chain-atomic-swaps-lightning-network-w/-dave-collins-and-charlie-lee
+     
 3. Why Own Decred?
    - Decred Ownership Thesis 
-      - Placeholder VC investment thesis: https://www.placeholder.vc/blog/2018/5/12/decred-investment-thesis
-      - Blockheadcap investment thesis: https://www.blockheadcap.com/post/decred-investment-thesis
-      - Blueyard invetment thesis: https://medium.com/@BlueYard/decred-82b284b4a795
-      - Coinmonks Decred: An Investment Thesis https://medium.com/coinmonks/decred-an-investment-thesis-bf9ba3cd1042
-      - Smith&Crown Decred Deep Dive Report: https://www.smithandcrown.com/wp-content/uploads/2019/03/SmithandCrown-Decred-Deep-Dive-Report.pdf
-   - What Investors Are Saying About Decred _(Links to include: Materials written by economists/finance people (e.g. Murad, Chris Burniske, etc.)_
-     -  Murad Mahmudov investment thesis: https://soundcloud.com/decredindepth/murad-mahmudov-dcr-investment-thesis-sov-narrative-crypto-economics
-     - Alex Evans investment thesis: https://static1.squarespace.com/static/5a479ee3b7411c6102f75729/t/5beb31eb6d2a73d37e82093b/1542140423818/Decred+Analysis+-+Alex+Evans.pdf
-     - Joel Monegro invetment thesis: https://decredindepth.libsyn.com/-joel-monegro-placeholder-capital-dcr-investment-thesis-0
-     - Wally Hansen investment thesis: https://medium.com/@wallyhansen/decred-an-investment-thesis-bf9ba3cd1042 
-   
-     
-     Some videos that could be related to the investment thesis of Decred:
-- Decred For Investors #9 - Decred Voting & Staking Explained - By Tai Zen, Leon Fu & Marco Peereboom https://www.youtube.com/watch?v=PIToIO6xHw4
-- Placeholder VC's Chris Burniske & Alex Evans @ OKCoin's $DCR/USD Listing https://www.youtube.com/watch?v=FG0c07kXRzA (this is very good) 
-- Decred For Investors #1 - What Is Decred? - By Tai Zen & Decred Jesus https://www.youtube.com/watch?v=pDUf5J_3Y6A 
-- Decred For Investors #2 - What Makes Decred Different? - By Tai Zen & Decred Jesus https://www.youtube.com/watch?v=mbuydmq3v04 
+      - https://www.placeholder.vc/blog/2018/5/12/decred-investment-thesis
+      - https://www.blockheadcap.com/post/decred-investment-thesis
+      - https://medium.com/@BlueYard/decred-82b284b4a795
+      - https://medium.com/coinmonks/decred-an-investment-thesis-bf9ba3cd1042
+      - https://www.smithandcrown.com/wp-content/uploads/2019/03/SmithandCrown-Decred-Deep-Dive-Report.pdf
+      - https://medium.com/@wallyhansen/decred-an-investment-thesis-bf9ba3cd1042 
+   - What Investors Are Saying About Decred 
+     -  https://soundcloud.com/decredindepth/murad-mahmudov-dcr-investment-thesis-sov-narrative-crypto-economics
+     - https://static1.squarespace.com/static/5a479ee3b7411c6102f75729/t/5beb31eb6d2a73d37e82093b/1542140423818/Decred+Analysis+-+Alex+Evans.pdf
+     - https://decredindepth.libsyn.com/-joel-monegro-placeholder-capital-dcr-investment-thesis-0
    
 4. Governance: Hybrid PoW/PoS 
    - Introduction to Decred Governance
@@ -104,6 +95,7 @@ Please add what you consider to the the BEST links to online resources that corr
       - https://medium.com/decred/blockchain-governance-how-decred-iterates-upon-bitcoin-3cc7030c655e
    - How Hybrid PoW/PoS Works
      - https://www.binance.vision/blockchain/hybrid-pow-pos-consensus-explained
+     - https://docs.decred.org/proof-of-stake/overview/
    - Why Hybrid PoW/PoS?
      - https://blog.decred.org/2016/11/16/Upgrading-Consensus/
      - https://medium.com/@richardred/what-is-on-chain-cryptocurrency-governance-is-it-plutocratic-bfb407ef6f1
@@ -115,14 +107,18 @@ Please add what you consider to the the BEST links to online resources that corr
       - https://medium.com/@richardred/the-role-of-decred-voters-in-defending-against-majority-attacks-ec658af0a8fd
       - https://www.youtube.com/watch?v=IYb4ongo7ls
    - Adaptability
+      - https://docs.decred.org/governance/consensus-rule-voting/overview/  
    - Self-Funding
      - https://evolvement.io/how-decred-revolutionizes-funding-in-crypto-with-marco-peereboom-transcript/
+     - https://medium.com/@richardred/decentralized-autonomous-funding-of-blockchain-projects-3c0c233ae4ad
+     - https://docs.decred.org/contributing/overview/
    - Staking _(Link to staking section)_
 - Ticketing _(Link to ticketing section)_
    - Politeia _(Link to Politeia section)_
    
 5. Politeia
    - Overview
+      - https://docs.decred.org/governance/politeia/overview/
       - https://blog.decred.org/2017/10/25/Politeia/
       - https://medium.com/decred/governance-of-the-decred-project-subsidy-through-politeia-e6393b2bab1f
       - https://medium.com/decred/an-overview-of-decreds-politeia-system-architecture-8741c13b35d8
@@ -138,6 +134,7 @@ Please add what you consider to the the BEST links to online resources that corr
 
 6. Staking _(Link to staking section)_
    - Overview
+     - https://staking.com/decred/
      - https://thedecreddigest.com/2017/12/11/the-top-5-reasons-to-become-a-decred-stakeholder/
      - https://www.coindesk.com/staking-isnt-just-a-way-to-earn-crypto-money-and-it-shouldnt-be
      - https://blog.decred.org/2017/04/03/A-New-Ticket-Price-Algorithm/
@@ -157,27 +154,31 @@ Please add what you consider to the the BEST links to online resources that corr
    - How Decred’s Contractor Model Works
      - https://medium.com/@richardred/working-for-the-decred-dae-a9cfb17686fa
      - https://docs.decred.org/contributing/contributing-to-decred/
+     - https://docs.decred.org/contributing/contributor-compensation/
    - How to Become a Contractor
      - https://medium.com/decred/how-to-get-hired-as-a-decred-contractor-e1435842df10
      - https://youtu.be/A-zcLGSYxbA
    - What the Decred DAO Means
+     - https://docs.decred.org/governance/decred-constitution/
      - https://thedecreddigest.com/2017/08/11/the-road-to-the-decred-dao-a-self-funding-cryptocurrency/
-
+     - https://medium.com/@changhugo/decred-as-a-dae-infrastructure-provider-970677f38179
+     
 8. Decred Tutorials & How-Tos 
    - How to Send and Receive Decred
      - working on this
    - How to Mine
      - https://docs.decred.org/mining/proof-of-work/pool-mining/gominer/
      - https://howtomine.com/decred/
+     - https://www.youtube.com/watch?v=Mr6_b2DBOhE
    - How to Set Up a Wallet
      - working on this
      - https://stakey.club/en/decrediton-setup/
      - https://stakey.club/en/deleting-the-wallet/
    - How to Use Politeia
-     - working on this
+     - https://www.youtube.com/watch?v=6oQYmLx0eTg
    - How to Use the Block Explorer
      - https://www.youtube.com/watch?v=5BiW-qHJOmo
-
+     
 9. Other Resources 
    - Network Statistics [Interface example](https://d.pr/i/JK7ojb)
      - I'd like to finish a web based interface that has all historical data. Thoughts?

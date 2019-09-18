@@ -36,19 +36,19 @@ Vision: Decred’s vision is to build a self-directed, decentralized future rule
 
 **_History of Decred: Foundational Documents_** 
 
-[Decred Constitution](https://docs.decred.org/governance/decred-constitution/)
+[The Decred Constitution](https://docs.decred.org/governance/decred-constitution/)
 
-[Decred: Where Did It All Begin?](https://thedecreddigest.com/2017/06/10/decred-where-did-it-all-begin/)
+[Decred: Where it all began](https://thedecreddigest.com/2017/06/10/decred-where-did-it-all-begin/)
 
-[Bitcoin's Biggest Challenges](https://blog.companyzero.com/2015/11/bitcoins-biggest-challenges/) by Jake Yocom-Piatt
+[Bitcoin's biggest challenges](https://blog.companyzero.com/2015/11/bitcoins-biggest-challenges/) by Jake Yocom-Piatt
 
-[Iterating Bitcoin](https://blog.companyzero.com/2015/12/iterating-bitcoin/) by Jake Yocom-Piatt
+[Iterating Bitcoin: proposed modifications](https://blog.companyzero.com/2015/12/iterating-bitcoin/) by Jake Yocom-Piatt
 
-[Decred: Rethink Digital Currency](https://blog.companyzero.com/2015/12/decred-rethink-digital-currency/) by Jake Yocom-Piatt
+[How Decred rethinks digital currency](https://blog.companyzero.com/2015/12/decred-rethink-digital-currency/) by Jake Yocom-Piatt
 
-[Memcoin2: A Hybrid Proof-of-Work, Proof-of-Stake Cryptocurrency](https://decred.org/research/mackenzie2013.pdf) by Adam Mackenzie
+[The famed memcoin2 paper that inspired Decred](https://decred.org/research/mackenzie2013.pdf) by Adam Mackenzie
 
-[Bitcointalk Forum: Decred Introduces Itself to the World](https://bitcointalk.org/index.php?topic=1290358)
+[Bitcointalk Forum: Decred introduces itself to the world](https://bitcointalk.org/index.php?topic=1290358)
 
    - Must-Reads 
      - https://medium.com/@linda.xie/a-beginners-guide-to-decred-2fc61670d67c

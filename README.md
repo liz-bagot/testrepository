@@ -80,19 +80,25 @@ Vision: Decred’s vision is to build a self-directed, decentralized future rule
 
 [Decred's history, mission, and vision](https://blocktv.com/watch/2019-02-20/5c6d6a2be03e3-chain-breakers-promoting-constant-disruption-) with Jake Yocom-Piatt on BlockTV 
 
-
-
-     - https://events.technologyreview.com/video/watch/jake-yocom-piatt-decred-blockchain-sovereignty/
+[Blockchain sovereignty and blockchain integration for businesses](https://events.technologyreview.com/video/watch/jake-yocom-piatt-decred-blockchain-sovereignty/) with Jake Yocom-Piatt at MIT 
      
 2. Go Deeper: Decred & Its Features
-   - The Airdrop
-     - https://forum.decred.org/threads/airdrop-rundown.313/
-   - Decred as a Store of Value
-     - https://docs.decred.org/advanced/premine/
-     - https://bravenewcoin.com/insights/decred-price-analysis-emergence-as-a-digital-store-of-value
-     - https://medium.com/@_Checkmatey_/monetary-premiums-can-altcoins-compete-with-bitcoin-54c97a92c6d4
-     - https://seekingalpha.com/article/4235521-fundamental-value-crypto-bitcoin-decred-store-value-investments
-   - Decred as a DAO 
+
+**_The Airdrop_**
+
+[The Decred premine](https://docs.decred.org/advanced/premine/)
+
+[The who, what, where, when, and how of Decred's airdrop](https://forum.decred.org/threads/airdrop-rundown.313/)
+ 
+**_Decred as a Store of Value_**
+
+[A price analysis of DCR as a digital store of value](https://bravenewcoin.com/insights/decred-price-analysis-emergence-as-a-digital-store-of-value) in Brave New Coin 
+
+[Monetary premiums: Can altcoins like Decred compete with Bitcoin?](https://medium.com/@_Checkmatey_/monetary-premiums-can-altcoins-compete-with-bitcoin-54c97a92c6d4) by Checkmate
+
+[An analysis of Bitcoin and Decred as store of value instruments](https://seekingalpha.com/article/4235521-fundamental-value-crypto-bitcoin-decred-store-value-investments) in Seeking Alpha
+
+**_Decred as a DAO_**
      - https://medium.com/decred/on-the-launch-of-decreds-politeia-b305d06d8bda
      - https://medium.com/@changhugo/decred-as-a-dae-infrastructure-provider-970677f38179
      - https://breakermag.com/decred-is-letting-users-choose-how-to-spend-its-28-million-dev-budget/

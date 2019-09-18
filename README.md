@@ -40,14 +40,16 @@ Vision: Decred’s vision is to build a self-directed, decentralized future rule
 
 [Decred: Where Did It All Begin?](https://thedecreddigest.com/2017/06/10/decred-where-did-it-all-begin/)
 
-[Bitcoin's Biggest Challenges (and How Decred Solves Them)](https://blog.companyzero.com/2015/11/bitcoins-biggest-challenges/) by Jake Yocom-Piatt
+[Bitcoin's Biggest Challenges](https://blog.companyzero.com/2015/11/bitcoins-biggest-challenges/) by Jake Yocom-Piatt
 
-[How Decred Iterates and Improves Upon Bitcoin](https://blog.companyzero.com/2015/12/iterating-bitcoin/) by Jake Yocom-Piatt
+[Iterating Bitcoin](https://blog.companyzero.com/2015/12/iterating-bitcoin/) by Jake Yocom-Piatt
 
+[Decred: Rethink Digital Currency](https://blog.companyzero.com/2015/12/decred-rethink-digital-currency/) by Jake Yocom-Piatt
 
-     - https://blog.companyzero.com/2015/12/decred-rethink-digital-currency/
-     - https://decred.org/research/mackenzie2013.pdf
-     - https://bitcointalk.org/index.php?topic=1290358.
+[Memcoin2: A Hybrid Proof-of-Work, Proof-of-Stake Cryptocurrency](https://decred.org/research/mackenzie2013.pdf)
+
+[Bitcointalk Forum: Decred Introduces Itself to the World](https://bitcointalk.org/index.php?topic=1290358)
+
    - Must-Reads 
      - https://medium.com/@linda.xie/a-beginners-guide-to-decred-2fc61670d67c
      - https://decred.org/brief/

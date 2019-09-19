@@ -230,7 +230,7 @@ Vision: Decred’s vision is to build a self-directed, decentralized future rule
 
 [How the Decred treasury is governed via Politeia](https://medium.com/decred/governance-of-the-decred-project-subsidy-through-politeia-e6393b2bab1f) by Richard Red of Decred
     
-**_Noteworthy Politeia Proposals__*
+**_Noteworthy Politeia Proposals__**
 
 [Proposal to create the Decred DEX](https://proposals.decred.org/proposals/5431da8ff4eda8cdbf8f4f2e08566ffa573464b97ef6d6bae78e749f27800d3a)
 

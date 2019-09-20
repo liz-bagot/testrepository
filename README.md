@@ -182,7 +182,7 @@ Vision: Decred’s vision is to build a self-directed, decentralized future rule
 
 **_How Hybrid PoW/PoS Works_**
 
-[Hybrid PoW/PoS Consensus explained](https://www.binance.vision/blockchain/hybrid-pow-pos-consensus-explained) 
+[Hybrid PoW/PoS Consensus explained](https://www.binance.vision/blockchain/hybrid-pow-pos-consensus-explained) by Richard Red
 
 [How PoS voting works](https://docs.decred.org/proof-of-stake/overview/)
   

@@ -36,8 +36,6 @@ Vision: Decred’s vision is to build a self-directed, decentralized future rule
 
 **_History of Decred: Foundational Documents_** 
 
-[The Decred Constitution](https://docs.decred.org/governance/decred-constitution/)
-
 [Decred: Where it all began](https://thedecreddigest.com/2017/06/10/decred-where-did-it-all-begin/)
 
 [Bitcoin's biggest challenges](https://blog.companyzero.com/2015/11/bitcoins-biggest-challenges/) by Jake Yocom-Piatt
@@ -49,6 +47,8 @@ Vision: Decred’s vision is to build a self-directed, decentralized future rule
 [The famed memcoin2 paper that inspired Decred](https://decred.org/research/mackenzie2013.pdf) by Adam Mackenzie
 
 [Bitcointalk Forum: Decred introduces itself to the world](https://bitcointalk.org/index.php?topic=1290358)
+
+[The Decred Constitution](https://docs.decred.org/governance/decred-constitution/)
 
 **_Must-Reads_**
 

@@ -128,9 +128,9 @@ Vision: Decred’s vision is to build a self-directed, decentralized future rule
 
 [Overview of the privacy landscape](https://blog.decred.org/2019/08/21/Surveying-the-Privacy-Landscape) by Jake Yocom-Piatt
 
-[A layman's explanation of Decred's privacy](https://medium.com/decred/decred-privacy-taking-the-long-road-62d218223db6) by Dustin Lefebvre of Decred
+[A layman's explanation of Decred Privacy](https://medium.com/decred/decred-privacy-taking-the-long-road-62d218223db6) by Dustin LeFebvre of Decred
 
-[A more in-depth explanation of Decred's privacy](https://blog.decred.org/2019/08/28/Iterating-Privacy/) by Jake Yocom-Piatt
+[A more in-depth and technical explanation of Decred Privacy](https://blog.decred.org/2019/08/28/Iterating-Privacy/) by Jake Yocom-Piatt
 
 [Announcement of Decred's privacy on Laura Shin's Unchained podcast](https://unchainedpodcast.com/after-years-of-secret-work-decred-adds-a-new-feature-privacy/)
 

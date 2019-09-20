@@ -100,7 +100,9 @@ Vision: Decred’s vision is to build a self-directed, decentralized future rule
 
 [Introduction to Politeia: What it is and how it works](https://medium.com/decred/on-the-launch-of-decreds-politeia-b305d06d8bda) by Richard Red of Decred 
 
-[On Decred's path to becoming a DAO](https://medium.com/@changhugo/decred-as-a-dae-infrastructure-provider-970677f38179) by DZ
+[Politeia endows Direct Sovereignty of Coinholders](https://medium.com/decred/politeia-approaching-escape-velocity-30f95f8b2055) by Dustin LeFebvre
+
+[On Decred's path to becoming a DAO](https://medium.com/@changhugo/decred-as-a-dae-infrastructure-provider-970677f38179) by Hugo Chang
 
 [How Decred is turning its treasury over to the community](https://breakermag.com/decred-is-letting-users-choose-how-to-spend-its-28-million-dev-budget/) in BREAKERMAG
 

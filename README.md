@@ -52,7 +52,7 @@ Vision: Decred’s vision is to build a self-directed, decentralized future rule
 
 **_Must-Reads_**
 
-[Decred investment thesis](https://www.placeholder.vc/blog/2018/5/12/decred-investment-thesis) by Joel Monegro and Chris Burniske of Placeholder vc
+[Decred investment thesis](https://www.placeholder.vc/blog/2018/5/12/decred-investment-thesis) by Joel Monegro and Chris Burniske of Placeholder VC
 
 [Decred governance: An iterative approach](https://maxbronstein.com/decred-governance/) by Max Bronstein of Dharma
 

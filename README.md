@@ -140,6 +140,8 @@ Vision: Decred’s vision is to build a self-directed, decentralized future rule
 
 [No more trading or listing fees? Decred releases new DEX proposal](https://www.forbes.com/sites/leslieankney/2019/02/04/no-more-trading-or-listing-fees-decred-releases-new-dex-proposal/#12395b0c35d9) in Forbes
 
+[Decred DEX Specifications](https://github.com/decred/dcrdex) by chappjc and buck54321
+
 **_Scaling Solution (Lightning Network)_**
 
 [Brief overview of Decred's Lightning Network implementation](https://docs.decred.org/wallets/lightning/)

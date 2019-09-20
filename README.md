@@ -72,8 +72,6 @@ Vision: Decred’s vision is to build a self-directed, decentralized future rule
 
 **_Must-Watches_**
 
-[Understand Decred in 2 minutes](https://www.youtube.com/watch?v=GAMp5V_gG1E)
-
 [How Decred is different from Bitcoin](https://www.youtube.com/watch?v=qHPs6XdP4gQ)
 
 [How Decred governance works](https://www.youtube.com/watch?v=qT9oBsbzUos)

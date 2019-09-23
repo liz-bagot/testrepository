@@ -323,7 +323,9 @@ BLANK
   
 **_How to Use Politeia_**
 
-[How to write a proposal in Politeia](https://medium.com/@decreddragon/writing-proposals-on-politeia-pi-e345621652a2)
+[Proposal Guidelines](https://docs.decred.org/governance/politeia/proposal-guidelines/)
+
+[How to write a proposal in Politeia](https://medium.com/@decreddragon/writing-proposals-on-politeia-pi-e345621652a2) by Decred Dragon
 
 **_How to Use the Block Explorer_**
 

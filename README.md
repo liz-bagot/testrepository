@@ -299,7 +299,7 @@ Vision: Decred’s vision is to build a self-directed, decentralized future rule
 
 [The road to the Decred DAO: A self-funding cryptocurrency](https://thedecreddigest.com/2017/08/11/the-road-to-the-decred-dao-a-self-funding-cryptocurrency/)
 
-[On Decred's path to becoming a DAO](https://medium.com/@changhugo/decred-as-a-dae-infrastructure-provider-970677f38179) by DZ of Decred
+[On Decred's path to becoming a DAO](https://medium.com/@changhugo/decred-as-a-dae-infrastructure-provider-970677f38179) by Hugo Chang
      
 **8. Decred Tutorials & How-Tos** 
 

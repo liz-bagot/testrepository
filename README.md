@@ -98,7 +98,7 @@ Vision: Decred’s vision is to build a self-directed, decentralized future rule
 
 **_Decred as a DAO_**
 
-[Introduction to Politeia: What it is and how it works](https://medium.com/decred/on-the-launch-of-decreds-politeia-b305d06d8bda) by Richard Red of Decred 
+[Introduction to Politeia: What it is and how it works](https://medium.com/decred/on-the-launch-of-decreds-politeia-b305d06d8bda) by Richard Red  
 
 [Politeia endows Direct Sovereignty of Coinholders](https://medium.com/decred/politeia-approaching-escape-velocity-30f95f8b2055) by Dustin LeFebvre
 
@@ -128,9 +128,9 @@ Vision: Decred’s vision is to build a self-directed, decentralized future rule
 
 [Overview of the privacy landscape](https://blog.decred.org/2019/08/21/Surveying-the-Privacy-Landscape) by Jake Yocom-Piatt
 
-[A layman's explanation of Decred Privacy](https://medium.com/decred/decred-privacy-taking-the-long-road-62d218223db6) by Dustin LeFebvre of Decred
+[A layman's explanation of Decred privacy](https://medium.com/decred/decred-privacy-taking-the-long-road-62d218223db6) by Dustin LeFebvre of Decred
 
-[A more in-depth and technical explanation of Decred Privacy](https://blog.decred.org/2019/08/28/Iterating-Privacy/) by Jake Yocom-Piatt
+[An in-depth and technical explanation of Decred privacy](https://blog.decred.org/2019/08/28/Iterating-Privacy/) by Jake Yocom-Piatt
 
 [Announcement of Decred's privacy on Laura Shin's Unchained podcast](https://unchainedpodcast.com/after-years-of-secret-work-decred-adds-a-new-feature-privacy/)
 
@@ -138,9 +138,9 @@ Vision: Decred’s vision is to build a self-directed, decentralized future rule
 
 [Introduction to the Decred DEX](https://blog.decred.org/2018/06/05/A-New-Kind-of-DEX/) by Jake Yocom-Piatt
 
-[No more trading or listing fees? Decred releases new DEX proposal](https://www.forbes.com/sites/leslieankney/2019/02/04/no-more-trading-or-listing-fees-decred-releases-new-dex-proposal/#12395b0c35d9) in Forbes
+[No more trading or listing fees? Decred releases new DEX proposal](https://www.forbes.com/sites/leslieankney/2019/02/04/no-more-trading-or-listing-fees-decred-releases-new-dex-proposal/#12395b0c35d9) by Leslie Ankney in Forbes
 
-[Decred DEX Specifications](https://github.com/decred/dcrdex) by chappjc and buck54321
+[Decred DEX specifications](https://github.com/decred/dcrdex) by chappjc and buck54321
 
 **_Scaling Solution (Lightning Network)_**
 
@@ -176,9 +176,9 @@ Vision: Decred’s vision is to build a self-directed, decentralized future rule
 
 [Introduction to Decred governance](https://docs.decred.org/governance/overview/)
 
-[How Decred approaches off-chain governance](https://blog.goodaudience.com/decentralized-off-chain-governance-in-the-context-of-digital-currencies-ef6db7d97412) by Haon of Decred
+[How Decred approaches off-chain governance](https://blog.goodaudience.com/decentralized-off-chain-governance-in-the-context-of-digital-currencies-ef6db7d97412) by Haon 
 
-[Decred vs. Bitcoin governance](https://medium.com/decred/blockchain-governance-how-decred-iterates-upon-bitcoin-3cc7030c655e) by Zubair Zia of Decred
+[Decred vs. Bitcoin governance](https://medium.com/decred/blockchain-governance-how-decred-iterates-upon-bitcoin-3cc7030c655e) by Zubair Zia 
 
 **_How Hybrid PoW/PoS Works_**
 
@@ -190,17 +190,17 @@ Vision: Decred’s vision is to build a self-directed, decentralized future rule
 
 [Why Decred users should have a say in hard fork changes](https://blog.decred.org/2016/11/16/Upgrading-Consensus/) by Jake Yocom-Piatt
 
-[The advantages of stake-based governance](https://medium.com/@richardred/what-is-on-chain-cryptocurrency-governance-is-it-plutocratic-bfb407ef6f1) by Richard Red of Decred
+[The advantages of stake-based governance](https://medium.com/@richardred/what-is-on-chain-cryptocurrency-governance-is-it-plutocratic-bfb407ef6f1) by Richard Red
 
 **_Security_**
 
-[Why Decred is 20x more expensive to attack than Bitcoin](https://blog.usejournal.com/apples-to-apples-decred-is-20x-more-expensive-to-attack-than-bitcoin-68bafeb4546f) by Zubair Zia of Decred
+[Why Decred is 20x more expensive to attack than Bitcoin](https://blog.usejournal.com/apples-to-apples-decred-is-20x-more-expensive-to-attack-than-bitcoin-68bafeb4546f) by Zubair Zia 
 
-[Decred's hybrid protocol as a superior detergent to majority attacks](https://medium.com/decred/decreds-hybrid-protocol-a-superior-deterrent-to-majority-attacks-9421bf486292) by Zubair Zia of Decred 
+[Decred's hybrid protocol as a superior detergent to majority attacks](https://medium.com/decred/decreds-hybrid-protocol-a-superior-deterrent-to-majority-attacks-9421bf486292) by Zubair Zia 
 
-[The role of Decred voters in defending against majority attacks](https://medium.com/@richardred/the-role-of-decred-voters-in-defending-against-majority-attacks-ec658af0a8fd) by Richard Red of Decred
+[The role of Decred voters in defending against majority attacks](https://medium.com/@richardred/the-role-of-decred-voters-in-defending-against-majority-attacks-ec658af0a8fd) by Richard Red
 
-[How Decred fork resistance works](https://medium.com/decred/detailed-analysis-of-decred-fork-resistance-93022e0bcde7) by Haon of Decred
+[How Decred fork resistance works](https://medium.com/decred/detailed-analysis-of-decred-fork-resistance-93022e0bcde7) by Haon 
   
 **_Adaptability_**
 
@@ -210,7 +210,7 @@ Vision: Decred’s vision is to build a self-directed, decentralized future rule
 
 [How Decred revolutionizes funding in crypto](https://evolvement.io/how-decred-revolutionizes-funding-in-crypto-with-marco-peereboom/) with Marco Peereboom on the Evolvement podcast
 
-[A comparison of funding models for various blockchain projects](https://medium.com/@richardred/decentralized-autonomous-funding-of-blockchain-projects-3c0c233ae4ad) by Richard Red of Decred
+[A comparison of funding models for various blockchain projects](https://medium.com/@richardred/decentralized-autonomous-funding-of-blockchain-projects-3c0c233ae4ad) by Richard Red
 
 **_Staking_** _(Link to staking section)_
 
@@ -222,15 +222,15 @@ Vision: Decred’s vision is to build a self-directed, decentralized future rule
 
 **_Overview_**
 
-[Politeia in production: The why and how behind off-chain governance](https://blog.decred.org/2018/10/15/Politeia-in-Production/) by Jake yocom-Piatt
+[Politeia in production: The why and how behind off-chain governance](https://blog.decred.org/2018/10/15/Politeia-in-Production/) by Jake Yocom-Piatt
 
-[Introduction to Politeia: What it is and how it works](https://medium.com/decred/on-the-launch-of-decreds-politeia-b305d06d8bda) by Richard Red of Decred 
+[Introduction to Politeia: What it is and how it works](https://medium.com/decred/on-the-launch-of-decreds-politeia-b305d06d8bda) by Richard Red  
 
 [High-level overview of Politeia](https://docs.decred.org/governance/politeia/overview/)
 
 [The motivation behind Politeia](https://blog.decred.org/2017/10/25/Politeia/) by Jake Yocom-Piatt
 
-[How the Decred treasury is governed via Politeia](https://medium.com/decred/governance-of-the-decred-project-subsidy-through-politeia-e6393b2bab1f) by Richard Red of Decred
+[How the Decred treasury is governed via Politeia](https://medium.com/decred/governance-of-the-decred-project-subsidy-through-politeia-e6393b2bab1f) by Richard Red 
     
 **_Noteworthy Politeia Proposals__**
 
@@ -266,7 +266,7 @@ Vision: Decred’s vision is to build a self-directed, decentralized future rule
 
 [Overview of ticket splitting](https://docs.decred.org/proof-of-stake/ticket-splitting/)
 
-[Everything you need to know about ticket splitting](https://medium.com/decred/dcr-ticket-splitting-all-you-need-to-know-b8edc6b65db3) by David of Decred
+[Everything you need to know about ticket splitting](https://medium.com/decred/dcr-ticket-splitting-all-you-need-to-know-b8edc6b65db3) by David 
 
 [Video tutorial on setting up ticket splitting](https://www.youtube.com/watch?v=9L8P7hL5v6w)
 
@@ -281,7 +281,7 @@ Vision: Decred’s vision is to build a self-directed, decentralized future rule
  
  **_How Decred’s Contractor Model Works_**
  
-[What it's like to work for Decred](https://medium.com/@richardred/working-for-the-decred-dae-a9cfb17686fa) by Richard Red of Decred
+[What it's like to work for Decred](https://medium.com/@richardred/working-for-the-decred-dae-a9cfb17686fa) by Richard Red
  
 [Contributing to Decred](https://docs.decred.org/contributing/contributing-to-decred/)
 
@@ -289,7 +289,7 @@ Vision: Decred’s vision is to build a self-directed, decentralized future rule
      
 **_How to Become a Contractor_**
 
-[How to get hired as a Decred contractor](https://medium.com/decred/how-to-get-hired-as-a-decred-contractor-e1435842df10) by Haon of Decred
+[How to get hired as a Decred contractor](https://medium.com/decred/how-to-get-hired-as-a-decred-contractor-e1435842df10) by Haon 
 
 [Working for the Decred DAO: A case study and tips & tricks](https://youtu.be/A-zcLGSYxbA) with Jamie Holdstock on the Decred in Depth podcast
    

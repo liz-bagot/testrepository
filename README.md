@@ -333,15 +333,10 @@ BLANK
      
 **9. Other Resources**
 
-**_Network Statistics_**
+**_Network Statistics and Block Explorers_**
 
-[Decred statistics (dcrstats)](https://dcrstats.com)
+[Decred Block Explorer](https://dcrdata.decred.org)
 
-**_Block Explorers_**
-
-[Decred Block Explorer](https://mainnet.decred.org)
-
-[DCRData](https://explorer.dcrdata.org/)
 
 **_Mining_**
 

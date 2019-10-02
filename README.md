@@ -232,6 +232,12 @@ Vision: Decred’s vision is to build a self-directed, decentralized future rule
 
 [How the Decred treasury is governed via Politeia](https://medium.com/decred/governance-of-the-decred-project-subsidy-through-politeia-e6393b2bab1f) by Richard Red 
     
+**_How to Use Politeia_**
+
+[Proposal Guidelines](https://docs.decred.org/governance/politeia/proposal-guidelines/)
+
+[How to write a proposal in Politeia](https://medium.com/@decreddragon/writing-proposals-on-politeia-pi-e345621652a2) by Decred Dragon
+
 **_Noteworthy Politeia Proposals__**
 
 [Proposal to create the Decred DEX](https://proposals.decred.org/proposals/5431da8ff4eda8cdbf8f4f2e08566ffa573464b97ef6d6bae78e749f27800d3a)
@@ -320,12 +326,6 @@ BLANK
 [How to set up a Decred wallet (aka Decrediton)](https://stakey.club/en/decrediton-setup/)
 
 [How to delete a Decred wallet](https://stakey.club/en/deleting-the-wallet/)
-  
-**_How to Use Politeia_**
-
-[Proposal Guidelines](https://docs.decred.org/governance/politeia/proposal-guidelines/)
-
-[How to write a proposal in Politeia](https://medium.com/@decreddragon/writing-proposals-on-politeia-pi-e345621652a2) by Decred Dragon
 
 **_How to Use the Block Explorer_**
 

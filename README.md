@@ -88,6 +88,8 @@ Vision: Decred’s vision is to build a self-directed, decentralized future rule
  
 **_Decred as a Store of Value_**
 
+[Decred: What Gold and Bitcoin wanted to be](https://seekingalpha.com/instablog/49962360-pascal-thellmann/5324856-decred-gold-bitcoin-wanted) in Seeking Alpha
+
 [A price analysis of DCR as a digital store of value](https://bravenewcoin.com/insights/decred-price-analysis-emergence-as-a-digital-store-of-value) in Brave New Coin 
 
 [Monetary premiums: Can altcoins like Decred compete with Bitcoin?](https://medium.com/@_Checkmatey_/monetary-premiums-can-altcoins-compete-with-bitcoin-54c97a92c6d4) by Checkmate

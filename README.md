@@ -56,8 +56,6 @@ Vision: Decred’s vision is to build a self-directed, decentralized future rule
 
 [Decred governance: An iterative approach](https://maxbronstein.com/decred-governance/) by Max Bronstein of Dharma
 
-[A beginner's guide to Decred](https://medium.com/@linda.xie/a-beginners-guide-to-decred-2fc61670d67c) by Linda Xie of Scalar Capital
-
 [A quick introduction to how Decred works](https://decred.org/brief/)
 
 **_Must-Listens_**

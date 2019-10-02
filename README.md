@@ -337,6 +337,10 @@ BLANK
 
 [Decred Block Explorer](https://dcrdata.decred.org)
 
+[DCR coin metrics](https://coinmetrics.io/charts/#assets=btc,dcr)
+
+[DCR ticket price chart](https://dcrdata.decred.org/charts?chart=ticket-price&zoom=ikefq8bs-k18gqdg0)
+
 
 **_Mining_**
 

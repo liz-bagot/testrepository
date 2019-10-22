@@ -68,6 +68,8 @@ Vision: Decred’s vision is to build a self-directed, decentralized future rule
 
 [Decred's hybrid approach to blockchain governance](https://soundcloud.com/epicenterbitcoin/eb-193) with Dave Collins and Jake Yocom-Piatt on the Epicenter podcast 
 
+[The mysterious Decred origin story and how it relates to Satoshi Nakamoto] (https://bravenewcoin.com/insights/podcasts/decreds-privacy-flow-building-a-better-bitcoin-and-the-legend-of-satoshi) with Jake Yocom-Piatt on Brave New Coin's The Crypto Conversation podcast 
+
 **_Must-Watches_**
 
 [How Decred is different from Bitcoin](https://www.youtube.com/watch?v=qHPs6XdP4gQ)

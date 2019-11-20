@@ -1,38 +1,8 @@
 
- # Decred Educational Resources Repository: Schema
+**Decreducation**
 
-Decred’s target audiences need to be better educated about Decred. Education will crystalize who Decred is, attract a wider audience, and prepare it for the next bull market. There’s a lot of good educational content in various places, but it can be difficult for journalists, crypto enthusiasts, investors, etc. to find it. While https://docs.decred.org/ is a good resource for people who already know Decred, it’s not intuitive for beginners and doesn’t pool together external resources. 
+Welcome to the Decred rabbit hole. Below is a carefully curated selection of the best readings, podcasts, video recordings, and other materials to both help newcomers take a deep dive into the various aspects of Decred.  
 
-We need an easy-to-find, external-facing Decred Resources Repository that helps non-Decred people get acquainted with the project by curating the very best content on each subject. Here's a sample schema we can model: https://www.lopp.net/bitcoin-information.html
-
-Below, each macro topic is denoted by a number. When visitors click on it, it will lead to another webpage with sub-topics, underneath which are hyperlinks to content. E.g. If the macro topic is "Governance: Hybrid PoW/Pos", you click and it leads you to sub-topics like "Primer on Consensus Mechanisms", "How Hybrid PoW/PoS Works", etc. 
-
-Please add what you consider to the the BEST links to online resources that correspond to the topics below, using the standard [text formatting to add hyperlniks] (https://help.github.com/en/articles/basic-writing-and-formatting-syntax#links). E.g., any links about Decred's history should go under "History of Decred: Foundational Documents", while links about how Decred's consensus mechanism works go under "How Hybrid PoW/PoS" works. Let's limit ourselves to only the best resources — we don't want an exhaustive list, but a highly curated list.
-
----
-(*The text below will be displayed at the top of the webpage and serve as an introduction to the educational resources repository.*)
-
-**Decred Information & Educational Resources**
-
-Decred is a highly complex digital currency that requires some studying before it can be fully understood. Below is a carefully curated selection of the best readings, podcasts, video recordings, and other materials to both help newcomers quickly understand Decred and give those familiar with Decred a refresher on the fundamentals.  
-
-(*The macro topics in bold below will all be displayed on the same webpage as the text above, with a short descriptor underneath each macro topic. When readers click on the title of the macro topic, they will be taken to another page, which will contain all the sub-topics in bold italics below and the hyperlinks underneath each respective sub-topic*)
-
-**1. Beginner’s Guide to Decred: The Basics**
-
-Learn about the fundamentals: What is Decred? How does it work? Why does it matter?
-
-**_Mission & Vision_**
- 
-Learn about Decred's mission, vision, and values. 
-
-(*When readers click on "Mission & Vision," they will be taken to another webpage containing the text below*)
-
-Decred is a community-directed digital currency with built-in governance to make it a superior long-term store of value. Decred is designed to deliver a truly decentralized, fair, and sovereign alternative to traditional money. In the current system, a centralized authority such as a bank or government holds the power. With Decred, the community members own and operate the system, make the rules, and determine the direction of the project. The result is a secure and adaptable currency that is a superior store of value. Everyone is invested and actively involved in helping Decred succeed.  
-
-Mission: Decred aims to become the world’s first truly decentralized autonomous organization. It is achieving this aim by building a self-directed digital currency whose security, adaptability, and sustainability make it a superior long-term store of value. 
-
-Vision: Decred’s vision is to build a self-directed, decentralized future ruled by the collective intelligence of the community. It will be built upon the pillars of sovereignty, fairness, transparency, inclusivity, privacy, and security. Everyone can vote on the rules and project-level decision making proportionately to their stake, yielding decisions and policies in the best interest of all — not just a select few. 
 
 **_History of Decred: Foundational Documents_** 
 
@@ -54,9 +24,7 @@ Vision: Decred’s vision is to build a self-directed, decentralized future rule
 
 [Decred investment thesis](https://www.placeholder.vc/blog/2018/5/12/decred-investment-thesis) by Joel Monegro and Chris Burniske of Placeholder VC
 
-[Decred governance: An iterative approach](https://maxbronstein.com/decred-governance/) by Max Bronstein of Dharma
-
-[A quick introduction to how Decred works](https://decred.org/brief/)
+[Decred governance: An iterative approach](https://maxbronstein.com/decred-governance/) by Max Bronstein of Coinbase
 
 **_Must-Listens_**
 
@@ -115,16 +83,6 @@ Vision: Decred’s vision is to build a self-directed, decentralized future rule
 [Decred as "Bitcoin with governance"](https://cryptobriefing.com/decred-bitcoin-plus-autonomy/) in Crypto Briefing
 
 [Comparison of on-chain voting protocols for Decred and other coins](https://cointelegraph.com/news/governing-decentralization-how-on-chain-voting-protocols-operate-and-vary) in Cointelegraph
-
-**_Deep Dive Technical Resources_**
-
-[The Decred structure](https://stakey.club/en/the-decred-structure/)
-
-[Verifying digital signatures in Decred](https://stakey.club/en/verifying-digital-signatures-decred/)
-
-[Sharing the dcrd](https://stakey.club/en/sharing-the-dcrd/)
-
-[Digital certificates for RPC connections](https://stakey.club/en/digital-certificates-for-rpc-connections/)
    
 **_Privacy_**
 
@@ -134,7 +92,6 @@ Vision: Decred’s vision is to build a self-directed, decentralized future rule
 
 [An in-depth and technical explanation of Decred privacy](https://blog.decred.org/2019/08/28/Iterating-Privacy/) by Jake Yocom-Piatt
 
-[Announcement of Decred's privacy on Laura Shin's Unchained podcast](https://unchainedpodcast.com/after-years-of-secret-work-decred-adds-a-new-feature-privacy/)
 
 **_DEX_**
 
@@ -165,12 +122,6 @@ Vision: Decred’s vision is to build a self-directed, decentralized future rule
 [Decred investment thesis](https://medium.com/@BlueYard/decred-82b284b4a795) by BlueYard Capital
 
 [Long-read Decred investment thesis](https://medium.com/coinmonks/decred-an-investment-thesis-bf9ba3cd1042) by Wally Hansen of SVB Capital 
-
-**_What Investors Are Saying About Decred_**
-
-[Murad Mahmudov of Adaptive Capital on Decred as a store of value](https://soundcloud.com/decredindepth/murad-mahmudov-dcr-investment-thesis-sov-narrative-crypto-economics) on the Decred in Depth podcast 
-
-[Joel Monegro of Placeholder vc on the Decred investment thesis](https://decredindepth.libsyn.com/-joel-monegro-placeholder-capital-dcr-investment-thesis-0) on the Decred in Depth podcast
    
 **4. Governance: Hybrid PoW/PoS**
 
@@ -245,8 +196,6 @@ Vision: Decred’s vision is to build a self-directed, decentralized future rule
 [Proposal to create the Decred DEX](https://proposals.decred.org/proposals/5431da8ff4eda8cdbf8f4f2e08566ffa573464b97ef6d6bae78e749f27800d3a)
 
 [Proposal to create a bug bounty program for finding security vulnerabilities in Decred](https://proposals.decred.org/proposals/d33a2667469b56942adf42453def6cc2292325251e4cf791e806939ea9efc9e1)
-
-[Proposal to hire a PR firm for Decred](https://proposals.decred.org/proposals/27f87171d98b7923a1bd2bee6affed929fa2d2a6e178b5c80a9971a92a5c7f50)
 
 [Proposal for a Decred contractor clearance process](https://proposals.decred.org/proposals/fa38a3593d9a3f6cb2478a24c25114f5097c572f6dadf24c78bb521ed10992a4)
 

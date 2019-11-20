@@ -1,7 +1,7 @@
 
 **Decreducation**
 
-Welcome to the Decred rabbit hole. Below is a carefully curated selection of the best readings, podcasts, video recordings, and other materials to both help newcomers take a deep dive into the various aspects of Decred.  
+Welcome to the Decred rabbit hole. Below is a carefully curated selection of the best readings, podcasts, video recordings, and other materials to help newcomers take a deep dive into the various aspects of Decred.  
 
 
 **_History of Decred: Foundational Documents_** 
